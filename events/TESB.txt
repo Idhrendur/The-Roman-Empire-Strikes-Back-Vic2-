@@ -1,0 +1,938 @@
+# Alaska Purchase 1/3
+country_event = {
+	id = 32512
+	title = "EVTNAME32509"
+	desc = "EVTDESC32509"
+	picture = "alaska"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA32509"
+		UTA = {
+			country_event = { id=32510 days=0 }
+		}
+		USA_1 = {
+			secede_province = UTA
+			remove_core = RUS
+		}
+		any_owned = {
+			limit = {
+				continent = north_america
+			}
+			secede_province = UTA
+			remove_core = RUS
+		}
+		ai_chance = {
+			factor = 80
+		}
+	}
+	
+	option = {
+		name = "EVTOPTB32509"
+		UTA = {
+			set_country_flag = you_did_try
+			country_event = { id=32511 days=0 }
+		}
+		ai_chance = {
+			factor = 20
+		}
+	}
+}
+
+# Alaska Purchase 2/3 Russia Accepts 
+country_event = {
+	id = 32513
+	title = "EVTNAME32510"
+	desc = "EVTDESC32510"
+	picture = "alaska"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA32510"
+		money = -72000
+		any_pop = {
+				consciousness = -1
+		}
+		RUS = {
+			money = 72000
+		}
+	}
+}
+
+# Alaska Purchase 3/3 Russia Denies
+country_event = {
+	id = 32514
+	title = "EVTNAME32511"
+	desc = "EVTDESC32511"
+	picture = "alaska"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA32511"
+		relation = {
+			who = FROM
+			value = -100
+		}
+	}
+}
+
+province_event = {
+	id = 33333
+	title = "EVTNAME33333"
+	desc = "EVTDESC33333"
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA33333"
+		any_pop = {
+			consciousness = 2
+			militancy = 2
+			dominant_issue = {
+				value = jingoism
+				factor = 0.2
+			}
+		}
+	}
+}
+
+country_event = {
+	id = 16401
+	title = "EVTNAME16400"
+	desc = "EVTDESC16400"
+	picture = "Administration"
+	
+	is_triggered_only = yes
+	major = yes
+	
+	option = {
+		name = "EVTOPTA16400"
+		FROM = {
+			any_owned = {
+				add_core = UTA
+			}
+		}
+		inherit = FROM
+		ai_chance = {
+			factor = 10
+		}
+	}
+	
+	option = {
+		name = "EVTOPTB16400"
+		relation = {
+			who = FROM
+			value = -100
+		}
+		ai_chance = {
+			factor = 0
+		}
+	}
+}
+
+
+country_event = {
+
+	id = 36906
+	news = yes
+	news_desc_long = "EVTDESC36903_NEWS_LONG"
+	news_desc_medium = "EVTDESC36903_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC36903_NEWS_SHORT"
+
+	trigger = {
+		tag = RME 
+		year = 1839
+		OR = {
+			government = absolute_monarchy
+			government = prussian_constitutionalism
+			government = hms_government
+			}
+		NOT = {
+			year = 1842
+		}
+	}
+	
+	fire_only_once = yes
+ 
+	mean_time_to_happen =  {
+		months = 6
+
+		modifier = {
+			factor = 0.75 #increase likelihood to happen
+			year = 1840
+		}
+
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1841
+		}
+	}
+
+	title = "EVTNAME36906"
+	desc = "EVTDESC36906"
+	picture = "VictoriaWedding"
+
+	option = {
+		name = "EVTOPTA36906" 
+		prestige = 5
+	}
+}
+
+country_event = {
+
+	id = 36916 
+
+	trigger = {
+		tag = ENG 
+		year = 1896
+		OR = {
+			government = absolute_monarchy
+			government = prussian_constitutionalism
+			government = hms_government
+		}
+		NOT = {
+			year = 1900
+		}
+	}
+	
+	fire_only_once = yes
+ 
+	mean_time_to_happen =  {
+		months = 6
+
+		modifier = {
+			factor = 0.75 #increase likelihood to happen
+			year = 1897
+		}
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1898
+		}
+
+		modifier = {
+			factor = 0.95 #increase likelihood to happen
+			year = 1899
+		}
+	}
+
+	title = "EVTNAME36916"
+	desc = "EVTDESC36916"
+	picture = "queenvictoria"
+
+	option = {
+		name = "EVTOPTA36916" 
+		prestige = 5
+	}
+}
+
+#################################################################################################################
+#																												#
+#                       							Unequal Treaties											#
+#																												#
+#################################################################################################################
+
+country_event = {
+	id = 1316082
+	title = "EVTNAME1316082" #The Unequal Treaty (with other countries -- if war still ongoing)
+	desc = "EVTDESC1316082"
+	picture = "Opiumwar"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Give them what they want."
+		FROM = { country_event = 1316083 }
+		prestige = -5
+		treasury = -200000
+		capital_scope = {
+			add_province_modifier = {
+				name = legation_quarter
+				duration = -1
+			}
+		}
+		random_owned = {
+			limit = {
+				owner = { has_country_modifier = uncivilized_isolationism }
+			}
+			owner = {
+				remove_country_modifier = uncivilized_isolationism
+				add_country_modifier = {
+					name = "western_influences"
+					duration = -1
+				}
+			}
+		}
+		random_owned = {
+			limit = {
+				owner = { diplomatic_reform = isolationism }
+			}
+			owner = {
+				economic_reform = interactive
+				activate_technology = early_classical_theory_and_critique
+				any_pop = {
+					scaled_militancy = {
+						ideology = liberal
+						factor = -10
+					}
+					scaled_militancy = {
+						ideology = conservative
+						factor = 3
+					}
+					scaled_militancy = {
+						ideology = reactionary
+						factor = 6
+					}
+				}
+			}
+		}
+		ai_chance = {
+			factor = 100
+		}
+	}
+	
+	option = {
+		name = "Never! We shall not submit!"
+		FROM = { country_event = 1316084 }
+		prestige = 5
+		ai_chance = {
+			factor = 0
+		}
+	}
+}
+
+country_event = {
+	id = 1316083
+	title = "EVTNAME1316083" #The Qing Emperor Agrees
+	desc = "EVTDESC1316083"
+	news = yes
+	news_title = "EVTNAME1316083_NEWS_TITLE"
+	news_desc_long = "EVTDESC1316083_NEWS_LONG"
+	news_desc_medium = "EVTDESC1316083_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC1316083_NEWS_SHORT"
+	picture = "treaty"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Excellent!"
+		clr_country_flag = negotiate_unequal_treaty
+		FROM = {
+			clr_country_flag = negotiate_unequal_treaty
+			end_war = THIS
+		}
+		treasury = 200000
+		relation = { who = FROM value = 300 }
+		diplomatic_influence = { who = FROM value = 50 }
+		random_owned = {
+			limit = {
+				owner = { tag = RME }
+				FROM = { NOT = { owns = 1496 } }
+			}
+			FROM = {
+				random_owned = {
+					limit = {
+						OR = {
+							province_id = 1498
+							province_id = 1538
+							province_id = 1566
+							province_id = 1481
+							province_id = 1569
+							province_id = 1606
+						}
+					}
+					secede_province = THIS
+				}
+			}
+		}
+		random_owned = {
+			limit = {
+				owner = { tag = RME }
+				FROM = { owns = 1496 }
+			}
+			1496 = { secede_province = RME }
+		}
+		random_owned = {
+			limit = {
+				owner = { tag = RUS }
+				FROM = { NOT = { owns = 1481 } }
+			}
+			FROM = {
+				random_owned = {
+					limit = {
+						OR = {
+							province_id = 1498
+							province_id = 1538
+							province_id = 1566
+							province_id = 1569
+							province_id = 1606
+							province_id = 1496
+						}
+					}
+					secede_province = THIS
+				}
+			}
+		}
+		random_owned = {
+			limit = {
+				owner = { tag = RUS }
+				FROM = { owns = 1481 }
+			}
+			1481 = { secede_province = RUS }
+		}
+		random_owned = {
+			limit = {
+				owner = {
+					NOT = { tag = ENG }
+					NOT = { tag = RUS }
+				}
+			}
+			FROM = {
+				random_owned = {
+					limit = {
+						OR = {
+							province_id = 1498
+							province_id = 1538
+							province_id = 1496
+							province_id = 1566
+							province_id = 1481
+							province_id = 1569
+							province_id = 1606
+						}
+					}
+					secede_province = THIS
+				}
+			}
+		}
+		FROM = {
+			any_owned = {
+				limit = { is_core = THIS }
+				secede_province = THIS
+			}
+		}
+		any_country = {
+			limit = {
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+					is_greater_power = no
+				}
+				alliance_with = THIS
+				war_with = FROM
+			}
+			end_war = FROM
+		}
+		any_country = {
+			limit = {
+				OR = {
+					vassal_of = FROM
+					substate_of = FROM
+				}
+				war_with = THIS
+			}
+			end_war = THIS
+		}
+	}
+}
+
+country_event = {
+	id = 1316084
+	title = "EVTNAME1316084" #The Qing Emperor has Refused!
+	desc = "EVTDESC1316084"
+	picture = "Opiumwar"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "An unfortunate choice."
+		FROM = { clr_country_flag = negotiate_unequal_treaty }
+		casus_belli = {
+			target = FROM
+			type = humiliate
+			months = 100
+		}
+	}
+}
+
+country_event = {
+	id = 1316085
+	title = "EVTNAME1316085" #The Treaty of Shimonoseki
+	desc = "EVTDESC1316085"
+	picture = "Opiumwar"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Give them what they want."
+		FROM = { country_event = 1316086 }
+		prestige = -5
+		treasury = -100000
+		ai_chance = {
+			factor = 100
+		}
+	}
+	
+	option = {
+		name = "Never! We shall not submit!"
+		FROM = { country_event = 1316084 }
+		prestige = 5
+		ai_chance = {
+			factor = 0
+		}
+	}
+}
+
+country_event = {
+	id = 1316086
+	title = "EVTNAME1316086" #The Treaty of Shimonoseki - Agreed
+	desc = "EVTDESC1316086"
+	news = yes
+	news_title = "EVTNAME1316085"
+	news_desc_long = "EVTDESC1316083_NEWS_LONG"
+	news_desc_medium = "EVTDESC1316083_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC1316083_NEWS_SHORT"
+	picture = "treaty"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Excellent!"
+		FROM = {
+			clr_country_flag = negotiate_unequal_treaty
+			end_war = THIS
+		}
+		treasury = 100000
+		diplomatic_influence = { who = FROM value = 50 }
+		random_country = {
+			limit = {
+				tag = KOR
+				vassal_of = FROM
+			}
+			FROM = {
+				release_vassal = KOR
+				leave_alliance = KOR
+			}
+		}
+		1485 = {
+			remove_core = FJN
+			add_core = TAI
+		}
+		2562 = {
+			remove_core = FJN
+			add_core = TAI
+		}
+		FROM = {
+			any_owned = {
+				limit = {
+					OR = {
+						is_core = THIS
+						province_id = 1485
+						province_id = 2562
+					}
+				}
+				any_pop = { militancy = 6 }
+				secede_province = THIS
+			}
+		}
+		any_country = {
+			limit = {
+				OR = {
+					vassal_of = FROM
+					substate_of = FROM
+				}
+				war_with = THIS
+			}
+			end_war = THIS
+		}
+	}
+}
+
+#Unequal Treaty if war is won
+country_event = {
+	id = 1316089
+	title = "EVTNAME1316089" #The Unequal Treaty (with other countries -- if war was won)
+	desc = "EVTDESC1316089"
+	picture = "Opiumwar"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "So be it."
+		random_country = {
+			limit = {
+				tag = FROM
+				NOT = {
+					AND = {
+						OR = {
+							tag = JAP
+							tag = TKG
+						}
+						has_country_modifier = fukoku_kyohei
+						NOT = { has_country_flag = negotiate_treaty_shimonoseki }
+						THIS = { owns = 1485 }
+						THIS = { NOT = { capital = 1485 } }
+					}
+				}
+			}
+			country_event = 1316091
+		}
+		random_country = {
+			limit = {
+				tag = FROM
+				OR = {
+					tag = JAP
+					tag = TKG
+				}
+				has_country_modifier = fukoku_kyohei
+				NOT = { has_country_flag = negotiate_treaty_shimonoseki }
+				THIS = { owns = 1485 }
+				THIS = { NOT = { capital = 1485 } }
+			}
+			country_event = 1316090
+		}
+	}
+}
+
+country_event = {
+	id = 1316090
+	title = "EVTNAME1316090" #Treaty of Shimonoseki (to Japan)
+	desc = "EVTDESC1316090"
+	news = yes
+	news_title = "EVTNAME1316085"
+	news_desc_long = "EVTDESC1316083_NEWS_LONG"
+	news_desc_medium = "EVTDESC1316083_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC1316083_NEWS_SHORT"
+	picture = "Opiumwar"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Make the deal with the $FROMCOUNTRY_ADJ$."
+		set_country_flag = negotiate_treaty_shimonoseki
+		prestige_factor = 0.1
+		treasury = 200000
+		diplomatic_influence = { who = FROM value = 50 }
+		random_country = {
+			limit = {
+				tag = FROM
+				KOR = { exists = no }
+				NOT = { any_owned_province = { is_core = KOR } }
+				is_our_vassal = MCK
+			}
+			leave_alliance = MCK
+			THIS = { create_vassal = MCK }
+		}
+		random_country = {
+			limit = {
+				tag = FROM
+				KOR = { exists = no }
+				NOT = { any_owned_province = { is_core = KOR } }
+				MCK = { exists = no }
+				any_owned_province = { is_core = MCK }
+			}
+			release = MCK
+			THIS = { create_vassal = MCK }
+		}
+		random_country = {
+			limit = {
+				tag = FROM
+				KOR = { exists = no }
+				any_owned_province = { is_core = KOR }
+			}
+			release = KOR
+			THIS = { create_vassal = KOR }
+		}
+		random_country = {
+			limit = {
+				tag = KOR
+				vassal_of = FROM
+			}
+			FROM = {
+				leave_alliance = KOR
+				release_vassal = KOR
+			}
+		}
+		1485 = {
+			remove_core = FJN
+			add_core = TAI
+		}
+		2562 = {
+			remove_core = FJN
+			add_core = TAI
+		}
+		any_owned = {
+			limit = {
+				is_core = CHI
+				NOT = {
+					is_core = THIS
+					region = CHI_1082
+					province_id = 1498
+					province_id = 1538
+					province_id = 1496
+					province_id = 1566
+					province_id = 1481
+					province_id = 1569
+					province_id = 1606
+					province_id = 1499
+					province_id = 1485
+					province_id = 2562
+				}
+			}
+			secede_province = FROM
+		}
+		FROM = {
+			any_owned = {
+				limit = {
+					OR = {
+						province_id = 1485
+						province_id = 2562
+					}
+				}
+				any_pop = { militancy = 6 }
+				secede_province = THIS
+			}
+			country_event = 1316092
+		}
+		ai_chance = { factor = 100 }
+	}
+	
+	option = {
+		name = "No. We will keep what we have now."
+		badboy = 3
+		any_owned = {
+			limit = { is_core = CHI }
+			any_pop = { militancy = 6 }
+		}
+		any_greater_power = {
+			limit = {
+				any_owned_province = { continent = asia }
+				NOT = { tag = THIS }
+			}
+			relation = { who = THIS value = -50 }
+			casus_belli = {
+				target = THIS
+				type = place_in_the_sun
+				months = 60
+			}
+		}
+		ai_chance = { factor = 0 }
+	}
+}
+
+country_event = {
+	id = 1316091
+	title = "EVTNAME1316091" #The Unequal Treaty (to the GP)
+	desc = "EVTDESC1316091"
+	news = yes
+	news_title = "EVTNAME1316083_NEWS_TITLE"
+	news_desc_long = "EVTDESC1316083_NEWS_LONG"
+	news_desc_medium = "EVTDESC1316083_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC1316083_NEWS_SHORT"
+	picture = "Opiumwar"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Make the deal with the $FROMCOUNTRY_ADJ$."
+		prestige_factor = 0.1
+		treasury = 200000
+		relation = { who = FROM value = 300 }
+		diplomatic_influence = { who = FROM value = 50 }
+		random_owned = {
+			limit = {
+				owner = { tag = ENG }
+				OR = {
+					1496 = {
+						NOT = { owned_by = ENG }
+						NOT = { owned_by = FROM }
+					}
+					owner = { has_country_flag = treaty_of_nanking }
+				}
+			}
+			FROM = {
+				random_owned = {
+					limit = {
+						OR = {
+							province_id = 1498
+							province_id = 1538
+							province_id = 1566
+							province_id = 1481
+							province_id = 1569
+							province_id = 1606
+						}
+					}
+					secede_province = THIS
+				}
+			}
+		}
+		random_owned = {
+			limit = {
+				owner = {
+					tag = ENG
+					NOT = { has_country_flag = treaty_of_nanking }
+				}
+				FROM = { owns = 1496 }
+			}
+			1496 = { secede_province = ENG }
+		}
+		random_owned = {
+			limit = {
+				owner = { tag = RUS }
+				FROM = { NOT = { owns = 1481 } }
+			}
+			FROM = {
+				random_owned = {
+					limit = {
+						OR = {
+							province_id = 1498
+							province_id = 1538
+							province_id = 1566
+							province_id = 1569
+							province_id = 1606
+							province_id = 1496
+						}
+					}
+					secede_province = THIS
+				}
+			}
+		}
+		random_owned = {
+			limit = {
+				owner = { tag = RUS }
+				FROM = { owns = 1481 }
+			}
+			1481 = { secede_province = RUS }
+		}
+		random_owned = {
+			limit = {
+				owner = {
+					NOT = { tag = ENG }
+					NOT = { tag = RUS }
+				}
+			}
+			FROM = {
+				random_owned = {
+					limit = {
+						OR = {
+							province_id = 1498
+							province_id = 1538
+							province_id = 1566
+							province_id = 1569
+							province_id = 1606
+							province_id = 1481
+							province_id = 1496
+						}
+					}
+					secede_province = THIS
+				}
+			}
+		}
+		any_owned = {
+			limit = {
+				is_core = CHI
+				NOT = {
+					is_core = THIS
+					region = CHI_1082
+					province_id = 1498
+					province_id = 1538
+					province_id = 1496
+					province_id = 1566
+					province_id = 1481
+					province_id = 1569
+					province_id = 1606
+					province_id = 1485
+					province_id = 2562
+					province_id = 1499
+				}
+			}
+			secede_province = FROM
+		}
+		FROM = { country_event = 1316092 }
+		ai_chance = { factor = 100 }
+	}
+	
+	option = {
+		name = "Forget it. We will keep what we have."
+		badboy = 3
+		any_owned = {
+			limit = { is_core = CHI }
+			any_pop = { militancy = 6 }
+		}
+		any_greater_power = {
+			limit = {
+				any_owned_province = { continent = asia }
+				NOT = { tag = THIS }
+			}
+			relation = { who = THIS value = -50 }
+			casus_belli = {
+				target = THIS
+				type = place_in_the_sun
+				months = 60
+			}
+		}
+		ai_chance = { factor = 0 }
+	}
+}
+
+country_event = {
+	id = 1316092
+	title = "EVTNAME1316092" #The Unequal Treaty (to China)
+	desc = "EVTDESC1316092"
+	picture = "asian_administration"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Every dog has its day."
+		prestige_factor = -0.2
+		treasury = -200000
+		any_owned = {
+			limit = { is_core = FROM }
+			secede_province = FROM
+		}
+		capital_scope = {
+			add_province_modifier = {
+				name = legation_quarter
+				duration = -1
+			}
+		}
+		random_owned = {
+			limit = {
+				owner = { has_country_modifier = uncivilized_isolationism }
+			}
+			owner = {
+				remove_country_modifier = uncivilized_isolationism
+				add_country_modifier = {
+					name = "western_influences"
+					duration = -1
+				}
+			}
+		}
+		random_owned = {
+			limit = {
+				owner = { diplomatic_reform = isolationism }
+			}
+			owner = {
+				economic_reform = interactive
+				activate_technology = early_classical_theory_and_critique
+				any_pop = {
+					scaled_militancy = {
+						ideology = liberal
+						factor = -10
+					}
+					scaled_militancy = {
+						ideology = conservative
+						factor = 3
+					}
+					scaled_militancy = {
+						ideology = reactionary
+						factor = 6
+					}
+				}
+			}
+		}
+	}
+}
+}
