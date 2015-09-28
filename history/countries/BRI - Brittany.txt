@@ -1,5 +1,8 @@
-nationalvalue=
+nationalvalue=nv_order
 literacy=0.000000
+primary_culture = breton
+religion = orthodox
+civilized = yes
 
 ruling_party=
 upper_house=

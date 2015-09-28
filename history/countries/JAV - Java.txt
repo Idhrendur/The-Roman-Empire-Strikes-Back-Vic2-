@@ -1,8 +1,10 @@
 capital=1413
-primary_culture = javan
-religion = sunni
+primary_culture = greek
+culture=sulawesi
+religion = orthodox
 government = absolute_monarchy
 nationalvalue=nv_order
+civilized=yes
 literacy=0.000000
 
 ruling_party=

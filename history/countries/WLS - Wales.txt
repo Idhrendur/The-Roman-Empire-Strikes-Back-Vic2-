@@ -1,4 +1,7 @@
-nationalvalue=
+nationalvalue=nv_order
+civilized=yes
+primary_culture=welsh
+religion=orthodox
 literacy=0.000000
 
 ruling_party=

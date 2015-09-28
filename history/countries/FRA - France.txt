@@ -1,7 +1,7 @@
 capital=425
-primary_culture = french
-culture = french_canadian
-religion = catholic
+primary_culture = cosmopolitan_french
+culture = greek
+religion = orthodox
 government = hms_government
 nationalvalue=nv_equality
 literacy=0.000000

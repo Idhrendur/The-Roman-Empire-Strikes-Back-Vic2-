@@ -1,8 +1,8 @@
 capital=387
 primary_culture = wallonian
 culture = flemish
-culture = french
-religion = catholic
+culture=cosmopolitan_french
+religion = orthodox
 government = hms_government
 nationalvalue=nv_liberty
 literacy=0.000000

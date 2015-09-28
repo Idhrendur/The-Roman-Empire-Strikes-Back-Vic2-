@@ -1,8 +1,8 @@
 capital=487
-primary_culture = spanish
+primary_culture = castillian
 culture = basque
-culture = catalan
-religion = catholic
+culture = andalucian
+religion = orthodox
 government = hms_government
 nationalvalue=nv_equality
 literacy=0.000000
