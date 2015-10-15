@@ -640,7 +640,7 @@ french = {
 		 Anquetil Griffith Granville Luci Maude Talbot Gonnor Frigard Pane }
 	}
 	aquitaine = { 
-		color = {20 20 100}
+		color = {20 80 100}
 		first_names = {Adrian Alphonce Bartholomé Berdot Bertrand Charles Corneilhe Denys Durand Esteven
 		Eugramet François Girolamme Guillaume Hanrri Huget Jacmes Jehan Kanuet Laurens Loys Martin Mathieu
 		Nycolas Noel Olivier Phelip Pierre Ramon Robert Sebastien Symon Thibault Thierry Vidault Yvon Ythier}
@@ -648,19 +648,6 @@ french = {
 		last_names = { Delat Bachelier Chassier Gorio Gulden Hervé Largan "le Taro" Leconig Monic Roullaud "de Lizane"
 		"de Bourgues" Delalo "de Caudeyran" Luceau "de la Panse" "de Maurommet" Dethoailhe Jourdain Stoard Parenchieres
 		Bourgade Olier Bonvisy Lorguilleulx Haltevite "de Zailies" Faicheur Vezee Gombault Joffre Beauperrin Gally}
-	}
-	burgundian = { 
-		color = {148  30  70}
-		first_names = { Adalbert Adolphe Albrecht Alexander Amédée Antoin Arnaud Arnulf Arthur Aubert Augustine Baudouin Bernard Bertrand
-		Boson Bouchard Charles Christopher Clément Conrad David Dietrich Dirk Édouard Egbert Eric Étienne Eudes Eustache Florent Frédérick
-		Gauthier Gerhard Gilbert Godefroy Guigues Guillaume Guy Henri Hugues Humbert Jacob Jean Joseph Lambert Laurence Louis Luquin Matthias
-		Nicolas Othon Paul Peter Philippe Raoul Raymond Renaud Robert Roger Rudolph Rufus Simon Theobald Thomas Waléran Wautier Wenceslas}
-		
-		last_names = { Bailly Beaumont Chamblay "d'Ailly" "de Berlo" "de Bonin" "de Boncourt" "de Bouchout" "de Brimieu" "de Cayeux" "de Chalon"
-		"de Caumesnil" "de Colombiers" "de Crane" "de Craon" "de la Clite" "de Croy" "de Dicbier" "de Fosseux" "de Halluin" "de Hanin" "de Hommet"
-		"de Lalaing" "de Lannoy" "de Longpre" "de Louvtoum" "de Male" "de Mamines" "de Maus" "de Melun" "de Matin" "de Montmorency" "de Naswien"
-		"de Nedonchel" "de Noyelles-Wion" "de Quieret" "de Romual" "de Roye" "de Rotselaer" "de Sainte-Croix" "de Saint-Simon" "de Sars-la-Bruyere"
-		"de Saveuse" "d'Escornaix" "De schamps" "de Teange" "de Vaudemont" "d'Harcourt" "d'Occors" "d'Uitkerke" "du Bois" Fretin Marbais Ponthieu }
 	}
 	occitain = { 
 		color = {20 20 100}
