@@ -18,6 +18,12 @@ UTA;United Tribes of America;;;;;;;;;;;;;x
 UTA_ADJ;American;;;;;;;;;;;;;x
 AQI;Aquitaine;;;;;;;;;;;;;x
 AQI_ADJ;Aquitaine;;;;;;;;;;;;;x
+BEL;Flanders-Wallonia;;;;;;;;;;;;;;x
+BEL_ADJ;Flanders-Wallonian;;;;;;;;;;;;;x
+NZL;Aoteorea;;;;;;;;;;;;;;x
+NZL_ADJ;Aoteorean;;;;;;;;;;;;;x
+ENG;Brittania;;;;;;;;;;;;;;x
+ENG_ADJ;Brittanian;;;;;;;;;;;;;x
 PROV860;Constantinople;Constantinople;Constantinople;;Estambul;;;;;;;;;x;;;;
 EVTNAME36906;Queen Veronica marries;La reine Victoria se marie;Victoria heiratet;， m?tambi幯 me vendr燰n bien unas vacaciones!;Matrimonio de la reina Victoria;;;;;;x;;;;;;;
 EVTDESC36906;On February 10th 1840, Queen Veronica married her cousin, Prince Yevhen of Ukraine. Unlike many other marriages of the time, this one was based primarily on sympathy, not dynastic calculations.;Le 10 f憝rier 1840, la reine Victoria a 廧ous?son cousin le prince Albert de Saxe-Cobourg-Gotha. ?la diff廨ence de beaucoup de mariages de l'廧oque, celui-ci 彋ait bas?avant tout sur la sympathie et non sur des calculs dynastiques.;Am 10. Februar 1840 heiratete Queen Victoria ihren Cousin, Prinz Albert von Sachsen-Coburg-Gotha. Im Gegensatz zu anderen Ehen dieser Zeit, basierte diese Beziehung prim酺 auf gegenseitiger Sympathie und nicht auf dynastischen Pl鄚en.;Matrimonio de Victoria;El 10 de febrero de 1840, la reina Victoria se cas?con su primo, el pr璯cipe Alberto de Sajonia-Coburgo-Gotha. A diferencia de muchos otros matrimonios de la 廧oca, 廥te se basaba principalmente en su afecto mutuo, no en c嫮culos din嫳ticos.;;;;;;x;;;;;;;
@@ -46,3 +52,23 @@ EVTDESC33333;Terrorists have attacked the Senate, killing several Senators and i
 EVTOPTA33333;Some fell for the plot.;;;;;;;;;;;;x,,,,,,,,,,,,,
 unite_india_title;Unite India;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 unite_india_description;Under the Empire's guidance, the subcontinent will be united.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EVTNAME1316093;The Roman Civil War;;;;;;;;;;;;x,,,,,,,,,,,,,
+EVTDESC1316093;Much of the Empire has declared independence. The Empire is in deadly strife.;;;;;;;;;;;;x,,,,,,,,,,,,,
+EVTNAME1316094;The Northern Alliance;;;;;;;;;;;;x,,,,,,,,,,,,,
+EVTDESC1316094;Russia and Germany have formed an alliance, declaring that "now is the time to overcome Roman hegemony".;;;;;;;;;;;;x,,,,,,,,,,,,,
+EVTNAME1316095;Poland-Lithuania Joins the Northern Alliance;;;;;;;;;;;;x,,,,,,,,,,,,,
+EVTDESC1316095;Poland-Lithuania joins the Northern Alliance after Germany and Russia cede lands to them.;;;;;;;;;;;;x,,,,,,,,,,,,,
+EVTNAME1316098;The Northern Alliance Grows;;;;;;;;;;;;x,,,,,,,,,,,,,
+EVTDESC1316098;England, Kannata, Scotland, Adal, Iraq, and Hedjaz all join the Northern Alliance.;;;;;;;;;;;;x,,,,,,,,,,,,,
+EVTNAME1316099;The Northern Alliance Declares War;;;;;;;;;;;;x,,,,,,,,,,,,,
+EVTDESC1316099;The Northern Alliance has declared war on us. Truly these are dark times.;;;;;;;;;;;;x,,,,,,,,,,,,,
+EVTNAME1316100;Purge the Bureacracy;;;;;;;;;;;;x,,,,,,,,,,,,,
+EVTDESC1316100;The bureaucracy has resisted reform for too long. It shall be purged so that the Empire can make the changes it needs to survive.;;;;;;;;;;;;x,,,,,,,,,,,,,
+EVTNAME1316101;The Greater Asian Co-Prosperity Sphere;;;;;;;;;;;;x,,,,,,,,,,,,,
+EVTDESC1316101;China and Japan have signed a treaty forming the Greater Asian Co-Prosperity Sphere. They have even agreed to land swaps to solidify this treaty.;;;;;;;;;;;;x,,,,,,,,,,,,,
+EVTNAME1316104;The Greater Asian Co-prosperity Sphere Expands;;;;;;;;;;;;x,,,,,,,,,,,,,
+EVTDESC1316104;Persia, Khiva, Luang Prabang, and Makassar have joined the Greater Asian Co-prosperity Sphere.;;;;;;;;;;;;x,,,,,,,,,,,,,
+EVTNAME1316105;The Greater Asian Co-prosperity Sphere Goes to War;;;;;;;;;;;;x,,,,,,,,,,,,,
+EVTDESC1316105;Ming has declared war on Russia for Qiqihar, bringing the Northern Allaince and the Greater Asian Co-Prosperity Sphere to blows.;;;;;;;;;;;;x,,,,,,,,,,,,,
+EVTNAME1316106;The Greater Asian Co-prosperity Sphere Goes to War;;;;;;;;;;;;x,,,,,,,,,,,,,
+EVTDESC1316106;Persia has declared war on Baluchistan, drawing the Greater Asian Co-Prosperity Sphere to war with us.;;;;;;;;;;;;x,,,,,,,,,,,,,
