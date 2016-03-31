@@ -416,4 +416,73 @@ political_decisions = {
 			factor = 1
 		}
 	}
+
+	total_war_in_former_empire = {
+		alert = yes
+		picture = support_boxers
+		potential = {
+			NOT = { has_country_modifier = imperial_civil_war_draft }
+			NOT = { has_country_flag = imperial_civil_war_draft_happened }
+			OR = {
+				tag = ENG
+				tag = WLS
+				tag = FRA
+				tag = BRI
+				tag = BEL
+				tag = BRG
+				tag = AQI
+				tag = ITA
+				tag = SPA
+				tag = CAT
+				tag = AZB
+				tag = AST
+				tag = NZL
+				tag = ISR
+				tag = MTR
+				tag = JAV
+				tag = PHI
+				tag = SAF
+			}
+		}
+
+		allow = {
+			war_with = RME
+			NOT = { num_of_cities = 50 }
+		}
+
+		effect = {
+			iron = 20
+			wool = 20
+			timber = 100
+			small_arms = 20
+			leadership = 40
+			add_country_modifier = {
+				name = imperial_civil_war_draft
+				duration = 1825
+			}
+			set_country_flag = imperial_civil_war_draft_happened 
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	senator_joins_as_a_general=
+	{
+		potential={
+			tag=RME
+			NOT = { has_country_flag = senator_joins_as_a_general_flag }
+		}
+		allow={
+			tag=RME
+		}
+		effect={
+			define_general = {
+				name = "Christophoros Palaiologos"
+				personality = fanatic
+				background = politician
+			}
+			set_country_flag=senator_joins_as_a_general_flag
+		}
+	}
 }
