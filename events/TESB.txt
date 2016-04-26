@@ -1811,8 +1811,8 @@ country_event = {
 				target = RUS
 				attacker_goal = 
 				{
-					casus_belli = acquire_state
-					state_province_id = 1552
+					casus_belli = acquire_core_state
+					state_province_id = 1002
 				}
 				call_ally = yes
 			}
