@@ -47,12 +47,9 @@ fascist_dictatorship =
  
 absolute_monarchy = {
 	liberal = yes
-	anarcho_liberal = yes
 	conservative = yes
 	reactionary = yes
 	socialist = yes
-	communist = yes
-	fascist = yes
 	
 	
 	election = no

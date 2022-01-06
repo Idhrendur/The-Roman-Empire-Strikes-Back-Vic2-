@@ -1843,3 +1843,49 @@ country_event = {
 		}
 	}
 }
+
+country_event = {
+	id = 1316107
+	title = "EVTNAME1316107"
+	desc = "EVTDESC1316107"
+	picture = "rebellion"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Finally they understand Romanitas"
+		any_pop = {
+			militancy = -10
+		}
+	}
+}
+
+
+country_event = {
+	id = 1316108
+	title = "EVTNAME1316108"
+	desc = "EVTDESC1316108"
+	picture = "rebellion"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Alliances refreshed"
+		FRA = {
+			relation = 
+			{
+				who = BRI
+				value = 400
+			}
+			create_alliance = BRI
+		}
+		BRG = {
+			relation = 
+			{
+				who = ITA
+				value = 400
+			}
+			create_alliance = ITA
+		}
+	}
+}

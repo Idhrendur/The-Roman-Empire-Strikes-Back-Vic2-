@@ -435,12 +435,14 @@ ZAP = "countries/Zapotec.txt"
 ZAZ = "countries/Zaporozhie.txt"
 ZIM = "countries/Mutapa.txt"
 ZUL = "countries/Zulu.txt"
-
-##HoD Dominions
-dynamic_tags = yes # any tags after this is considered dynamic dominions
 D01 = "countries/D01.txt"
 D02 = "countries/D02.txt"
 D03 = "countries/D03.txt"
+D15 = "countries/Gambia.txt"
+D16 = "countries/Ghana.txt"
+
+##HoD Dominions
+dynamic_tags = yes # any tags after this is considered dynamic dominions
 D04 = "countries/D04.txt"
 D05 = "countries/D05.txt"
 D06 = "countries/D06.txt"
@@ -452,8 +454,6 @@ D11 = "countries/D11.txt"
 D12 = "countries/D12.txt"
 D13 = "countries/D13.txt"
 D14 = "countries/D14.txt"
-D15 = "countries/D15.txt"
-D16 = "countries/D16.txt"
 D17 = "countries/D17.txt"
 D18 = "countries/D18.txt"
 D19 = "countries/D19.txt"

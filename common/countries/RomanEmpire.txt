@@ -25,14 +25,14 @@ party = {
     economic_policy = interventionism
     trade_policy = free_trade
     religious_policy = pluralism
-    citizenship_policy = residency
+    citizenship_policy = full_citizenship
     war_policy = pro_military
 }
 
 party = {
     name = "RME_XKM"
     start_date = 1820.1.1
-    end_date = 2000.1.1
+    end_date = 1920.1.1
 
     ideology = liberal
 
