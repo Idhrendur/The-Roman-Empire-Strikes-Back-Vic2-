@@ -1,257 +1,258 @@
-;;;;;;;;;;;;x
-BRA;Brunswick;;;;;;;;;;;;x
-BRA_ADJ;Brunswicker;;;;;;;;;;;;x
-CAN_13;Columbia;;;;;;;;;;;;x
-PROV13;New Westminster;;;;;;;;;;;;x
-PROV17;Stikine;;;;;;;;;;;;x
-CAN_19;New Caledonia;;;;;;;;;;;;x
-PROV19;New Caledonia;;;;;;;;;;;;x
-PROV20;Okanagan;;;;;;;;;;;;x
-PROV21;Kootenay;;;;;;;;;;;;x
-PROV26;Bow River;;;;;;;;;;;;x
-PROV44;Repulse Bay;;;;;;;;;;;;x
-CAN_46;Upper Canada;;;;;;;;;;;;x
-CAN_50;Northern Ontario;;;;;;;;;;;;x
-CAN_58;Lower Canada;;;;;;;;;;;;x
-CAN_60;Northern Quebec;;;;;;;;;;;;x
-ENG_68;Maritimes;;;;;;;;;;;;x
-MEX_94;Nevada;;;;;;;;;;;;x
-MEX_97;Utah;;;;;;;;;;;;x
-USA_201;Georgia;;;;;;;;;;;;x
-USA_205;South Carolina;;;;;;;;;;;;x
-ENG_258;Connacht;;;;;;;;;;;;x
-ENG_263;Leinster;;;;;;;;;;;;x
-SWE_322;Stockholm;;;;;;;;;;;;x
-SWE_329;Göteborg;;;;;;;;;;;;x
-SWE_334; Malmö;;;;;;;;;;;;x
-RUS_343;Helsinki;;;;;;;;;;;;x
-RUS_345;Turku;;;;;;;;;;;;x
-RUS_360;Lithuania;;;;;;;;;;;;x
-HOL_369;Holstein;;;;;;;;;;;;x
-SCH_370;Schleswig;;;;;;;;;;;;x
-NET_379;Zeeland;;;;;;;;;;;;x
-PROV381;Limburg;;;;;;;;;;;;x
-BEL_387;Flanders;;;;;;;;;;;;x
-BEL_394;Wallonia;;;;;;;;;;;;x
-HAN_528;Lower Elbe;;;;;;;;;;;;x
-HAN_534;Hanover;;;;;;;;;;;;x
-HAN_540;East Friesland;;;;;;;;;;;;x
-PRU_544;Mecklenburg;;;;;;;;;;;;x
-PRU_546;Pomerania;;;;;;;;;;;;x
-PRU_553;Anhalt;;;;;;;;;;;;x
-PRU_554;Thuringia;;;;;;;;;;;;x
-SAX_558;Saxony;;;;;;;;;;;;x
-PRU_570;Palatinate;;;;;;;;;;;;x
-PRU_575;Rheinland;;;;;;;;;;;;x
-PRU_578;Eastern Rheinland;;;;;;;;;;;;x
-BAV_595;Franconia;;;;;;;;;;;;x
-BAV_599;Upper Bavaria;;;;;;;;;;;;x
-SPA_610;Caroline Islands;;;;;;;;;;;;x
-AUS_652;Banat;;;;;;;;;;;;x
-AUS_654;Western Transylvania;;;;;;;;;;;;x
-AUS_657;Eastern Transylvania;;;;;;;;;;;;x
-MOL_676;Bessarabia;;;;;;;;;;;;x
-PRU_682;Lower Silesia;;;;;;;;;;;;x
-PRU_684;Upper Silesia;;;;;;;;;;;;x
-AUS_702;Galicia-Lodomeria;;;;;;;;;;;;x
-PROV704;Nowy Sacz;;;;;;;;;;;;x
-RUS_706;Masovia;;;;;;;;;;;;x
-PROV711;Siedlce;;;;;;;;;;;;x
-RUS_715;West Galicia;;;;;;;;;;;;x
-PROV719;Bialystok;;;;;;;;;;;;x
-PROV748;Grosseto;;;;;;;;;;;;x
-SAR_765;Sardinia & Corsica;;;;;;;;;;;;x
-FRA_801;Tahiti;;;;;;;;;;;;x
-TUR_805;Southern Macedonia;;;;;;;;;;;;x
-TUR_806;Northern Macedonia;;;;;;;;;;;;x
-TUR_809;Eastern Rumelia;;;;;;;;;;;;x
-TUR_823;Eastern Macedonia;;;;;;;;;;;;x
-PROV829;Xanthe;;;;;;;;;;;;x
-TUR_876;Ankara;;;;;;;;;;;;x
-TUR_880;Kastamonu;;;;;;;;;;;;x
-TUR_882;Trabizond;;;;;;;;;;;;x
-TUR_890;Van;;;;;;;;;;;;x
-TUR_893;Diyarbakir;;;;;;;;;;;;x
-TUR_894;Adana;;;;;;;;;;;;x
-RUS_940;Pinsk;;;;;;;;;;;;x
-PROV950;Uzhgorod;;;;;;;;;;;;x
-RUS_955;Podillia;;;;;;;;;;;;x
-RUS_968;Transnistria;;;;;;;;;;;;x
-RUS_973;Zaporizhia;;;;;;;;;;;;x
-RUS_978;Kharkov;;;;;;;;;;;;x
-RUS_979;Donbass;;;;;;;;;;;;x
-PROV1082;Haishenwai;;;;;;;;;;;;x
-JAP_1086;Sakhalin;;;;;;;;;;;;x
-PROV1087;Otomari;;;;;;;;;;;;x
-JAP_1088;Ezo;;;;;;;;;;;;x
-AST_1097;New Caledonia;;;;;;;;;;;;x
-PER_1116;Mazandaran;;;;;;;;;;;;x
-PER_1128;Lorestan;;;;;;;;;;;;x
-PER_1132;Khuzestan;;;;;;;;;;;;x
-PER_1136;Fars;;;;;;;;;;;;x
-PER_1140;Kerman;;;;;;;;;;;;x
-YEM_1178;Sana'a;;;;;;;;;;;;x
-AFG_1209;Pashtunistan;;;;;;;;;;;;x
-KOK_1210;Bandakshan;;;;;;;;;;;;x
-AFG_1214;Kandahar;;;;;;;;;;;;x
-PAN_1233;Amritsar;;;;;;;;;;;;x
-ENG_1243;Bundelkhand;;;;;;;;;;;;x
-ENG_1244;Awadh;;;;;;;;;;;;x
-NEP_1326;Western Himalayas;;;;;;;;;;;;x
-SIA_1352;Pattani;;;;;;;;;;;;x
-SIA_1355;Shan;;;;;;;;;;;;x
-LUA_1356;Laos;;;;;;;;;;;;x
-SIA_1358;Isan;;;;;;;;;;;;x
-PROV1360;Xiangabouli;;;;;;;;;;;;x
-DAI_1369;Tonkin;;;;;;;;;;;;x
-DAI_1375;Annam;;;;;;;;;;;;x
-DAI_1380;Cochinchina;;;;;;;;;;;;x
-ENG_1384;Southern Malaya;;;;;;;;;;;;x
-ENG_1391;Northern Malaya;;;;;;;;;;;;x
-SIA_1392;Ayutthaya;;;;;;;;;;;;x
-BRU_1394;West Borneo;;;;;;;;;;;;x
-BRU_1396;Sabah;;;;;;;;;;;;x
-NET_1401;Siak;;;;;;;;;;;;x
-YEM_1412;Aden;;;;;;;;;;;;x
-NET_1413;West Java;;;;;;;;;;;;x
-NET_1418;East Java;;;;;;;;;;;;x
-NET_1423;East Borneo;;;;;;;;;;;;x
-NET_1426;South Borneo;;;;;;;;;;;;x
-NET_1446;Timor;;;;;;;;;;;;x
-NET_1447;Moluccas;;;;;;;;;;;;x
-NET_1449;Celebes;;;;;;;;;;;;x
-CHI_1465;Eastern Mongolia;;;;;;;;;;;;x
-CHI_1468;Western Mongolia;;;;;;;;;;;;x
-PROV1469;Uriankhai;;;;;;;;;;;;x
-CHI_1470;South Anhui;;;;;;;;;;;;x
-CHI_1477;North Anhui;;;;;;;;;;;;x
-CHI_1479;Fengtian;;;;;;;;;;;;x
-CHI_1482;Fujian;;;;;;;;;;;;x
-CHI_1485;Formosa;;;;;;;;;;;;x
-CHI_1490;Gansu;;;;;;;;;;;;x
-CHI_1493;Canton;;;;;;;;;;;;x
-CHI_1496;Hong Kong;;;;;;;;;;;;x
-CHI_1499;Hainan;;;;;;;;;;;;x
-CHI_1502;Guangxi;;;;;;;;;;;;x
-CHI_1505;Guizhou;;;;;;;;;;;;x
-CHI_1508;East Henan;;;;;;;;;;;;x
-CHI_1510;West Henan;;;;;;;;;;;;x
-CHI_1519;West Hubei;;;;;;;;;;;;x
-CHI_1522;East Hubei;;;;;;;;;;;;x
-PROV1523;Xiangyang;;;;;;;;;;;;x
-CHI_1524;North Hunan;;;;;;;;;;;;x
-CHI_1526;South Hunan;;;;;;;;;;;;x
-CHI_1532;Inner Mongolia;;;;;;;;;;;;x
-CHI_1540;North Jiangsu;;;;;;;;;;;;x
-PROV1542;Xuzhou;;;;;;;;;;;;x
-CHI_1545;North Jiangxi;;;;;;;;;;;;x
-CHI_1547;South Jiangxi;;;;;;;;;;;;x
-CHI_1552;Heilongjiang;;;;;;;;;;;;x
-CHI_1555;Kirin;;;;;;;;;;;;x
-PROV1559;Xian;;;;;;;;;;;;x
-CHI_1559;Shaanxi;;;;;;;;;;;;x
-CHI_1563;West Shandong;;;;;;;;;;;;x
-CHI_1565;East Shandong;;;;;;;;;;;;x
-CHI_1572;Shanxi;;;;;;;;;;;;x
-CHI_1578;West Sichuan;;;;;;;;;;;;x
-CHI_1579;East Sichuan;;;;;;;;;;;;x
-TIB_1587;Eastern Himalayas;;;;;;;;;;;;x
-CHI_1594;Kashgar;;;;;;;;;;;;x
-CHI_1600;Urumqui;;;;;;;;;;;;x
-CHI_1601;Yunnan;;;;;;;;;;;;x
-CHI_1604;North Zhejiang;;;;;;;;;;;;x
-CHI_1610;South Zhejiang;;;;;;;;;;;;x
-PROV1612;Baoding;;;;;;;;;;;;x
-CHI_1612;Baoding;;;;;;;;;;;;x
-PROV1616;Peking;;;;;;;;;;;;x
-CHI_1616;Peking;;;;;;;;;;;;x
-PROV1643;Ishikari;;;;;;;;;;;;x
-PROV1644;Nemuro;;;;;;;;;;;;x
-JAP_1649;Kanto;;;;;;;;;;;;x
-JAP_1654;Bonin Islands;;;;;;;;;;;;x
-JAP_1655;Kansai;;;;;;;;;;;;x
-JAP_1640;Chugoku;;;;;;;;;;;;x
-JAP_1665;Shikoku;;;;;;;;;;;;x
-JAP_1660;Kyushu;;;;;;;;;;;;x
-JAP_1672;Tohoku;;;;;;;;;;;;x
-JAP_1675;Chubu;;;;;;;;;;;;x
-PROV1679;Amami;;;;;;;;;;;;x
-MOR_1693;Marrakesh;;;;;;;;;;;;x
-MOR_1694;Agadir;;;;;;;;;;;;x
-ALD_1704;Oran;;;;;;;;;;;;x
-ALD_1708;Constantine;;;;;;;;;;;;x
-PROV1709;Bône;;;;;;;;;;;;x
-ALD_1713;North Central Sahara;;;;;;;;;;;;x
-TRI_1731;Tripolitania;;;;;;;;;;;;x
-TRI_1735;Cyrenaica;;;;;;;;;;;;x
-TRI_1740;Fezzan;;;;;;;;;;;;x
-EGY_1745;Cairo;;;;;;;;;;;;x
-EGY_1751;Alexandria;;;;;;;;;;;;x
-EGY_1753;Qattara;;;;;;;;;;;;x
-EGY_1755;Sinai;;;;;;;;;;;;x
-ENG_1844;Sudd;;;;;;;;;;;;x
-ETH_1852;Begemder;;;;;;;;;;;;x
-ETH_1853;Tigray;;;;;;;;;;;;x
-ETH_1859;Shewa;;;;;;;;;;;;x
-ETH_1862;Gibe;;;;;;;;;;;;x
-ETH_1865;Hararghe;;;;;;;;;;;;x
-PROV1860;Hawassa;;;;;;;;;;;;x
-PROV1863;Jimma;;;;;;;;;;;;x
-PROV1864;Sidamo;;;;;;;;;;;;x
-PROV1866;Bale;;;;;;;;;;;;x
-PROV1867;Ogaden;;;;;;;;;;;;x
-SOM_1868;South Somaliland;;;;;;;;;;;;x
-SOM_1872;North Somaliland;;;;;;;;;;;;x
-FRA_1878;Lower Guinea;;;;;;;;;;;;x
-FRA_1883;Upper Guinea;;;;;;;;;;;;x
-ASH_1909;Gold Coast;;;;;;;;;;;;x
-FRA_1919;Dahomey;;;;;;;;;;;;x
-SOK_1934;Biafra;;;;;;;;;;;;x
-SOK_1937;Tukari;;;;;;;;;;;;x
-SOK_1945;Kano;;;;;;;;;;;;x
-SPA_1955;Equatorial Guinea;;;;;;;;;;;;x
-ENG_1956;Cameroon;;;;;;;;;;;;x
-SOK_1963;Adamawa;;;;;;;;;;;;x
-FRA_1970;Bangassou;;;;;;;;;;;;x
-BEL_1990;Kivu;;;;;;;;;;;;x
-BEL_1996;Congo Orientale;;;;;;;;;;;;x
-BEL_2034;Ruanda-Urundi;;;;;;;;;;;;x
-ENG_2036;Zanzibar;;;;;;;;;;;;x
-ENG_2044;Tanganyika;;;;;;;;;;;;x
-ENG_2048;Zanzibar;;;;;;;;;;;;x
-POR_2054;Tete;;;;;;;;;;;;x
-ENG_2067;Nyasaland;;;;;;;;;;;;x
-ENG_2068;Mashonaland;;;;;;;;;;;;x
-ENG_2071;Matabeleland;;;;;;;;;;;;x
-ENG_2074;Bechuanaland;;;;;;;;;;;;x
-ENG_2094;Kimberley;;;;;;;;;;;;x
-MEX_2181;Chiapas;;;;;;;;;;;;x
-UCA_2191;El Salvador;;;;;;;;;;;;x
-UCA_2193;Honduras;;;;;;;;;;;;x
-CHI_2221;South Jiangsu;;;;;;;;;;;;x
-NET_2235;Leeward Antilles;;;;;;;;;;;;x
-PEU_2308;Arica;;;;;;;;;;;;x
-BOL_2309;Antofagasta;;;;;;;;;;;;x
-ARG_2360;Entre Rios;;;;;;;;;;;;x
-PROV2367;Xolotas;;;;;;;;;;;;x
-ARG_2374;Catamarca;;;;;;;;;;;;x
-BRZ_2421;Goiás;;;;;;;;;;;;x
-AST_2454;Fiji;;;;;;;;;;;;x
-BRZ_2461;Santa Catarina;;;;;;;;;;;;x
-SPA_2517;Mariana Islands;;;;;;;;;;;;x
-AST_2534;Solomon Islands;;;;;;;;;;;;x
-AST_2535;Melanesian Islands;;;;;;;;;;;;x
-AUS_2538;Vojvodina;;;;;;;;;;;;x
-TON_2540;Tonga;;;;;;;;;;;;x
-USA_2543;Samoa;;;;;;;;;;;;x
-PROV2554;Misiones;;;;;;;;;;;;x
-HES_2560;Hessen;;;;;;;;;;;;x
-RUS_2587;Kola;;;;;;;;;;;;x
-PROV2595;Keewatin;;;;;;;;;;;;x
-CHI_2678;Outer Mongolia;;;;;;;;;;;;x
-PROV2834;Bay of Ayan;;;;;;;;;;;;x
-PROV2836;Coast of Kamchatka;;;;;;;;;;;;x
-PROV2837;Sea of Okhotsk;;;;;;;;;;;;x
-PROV2838;Coast of Sakhalin;;;;;;;;;;;;x
-PROV2843;Seto Inland Sea;;;;;;;;;;;;x
-PROV3126;Coast of Minami;;;;;;;;;;;;x
+NONE;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portuguese;Russian;Finnish;x;
+AFG_1209;Pashtunistan;Pashtunistan;Pashtunistan;Pashtunistan;Pashtunistán;Pashtunistan;Pashtunistan;Pashtunistan;Pashtunistan;Pashtunistan;Pashtunistan;;Pashtunistan;;
+AFG_1214;Kandahar;Kandahar;Kandahar;Kandahar;Kandahar;Kandahar;Kandahar;Kandahar;Kandahar;Kandahar;Kandahar;;Kandahar;;
+ALD_1704;Oran;Oran;Oran;Oran;Orán;Orano;Oan;Oran;Orán;Oran;Oran;;Oran;;
+ALD_1708;Constantine;Constantine;Konstantin;Konstantyna;Constantino;Costantino;Konstant;Constantine;Konstantin;Constantine;Constantino;;Constantiini;;
+ALD_1713;North Central Sahara;Sahara du Centre-Nord;North Central Sahara;North Central Sahara;Sahara del Norte Central;Sahara del Nord Centrale;Norra centrala sahara;Severní centrální Sahara;Észak-Közép-Szahara;Noord-Centraal Sahara;Sahara do Norte Central;;Pohjois-Sahara;;
+ARG_2360;Entre Rios;Entre Rios;Entriefernrios;Entre Rios;Entre Rios;Entre rios;Entre Rios;Entre rios;Entre rios;Entre Rios;Entre Rios;;Entre Rios;;
+ARG_2374;Catamarca;Catamarca;Katamarca;Catamarca;Catamarca;Catamarca;Katamarca;Katamarca;Katamarca;Catamarca;Catamarca;;Catamarca;;
+ASH_1909;Gold Coast;Côte d'or;Goldküste;Gold Coast;Costa Dorada;Costa d'Oro;Guld kust;Zlaté pobreží;Milliomosnegyed;Gouden Kust;Costa Dourada;;Kultarannikko;;
+AST_1097;New Caledonia;Nouvelle Calédonie;Neu-Kaledonien;Nowa Kaledonia;Nueva Caledonia;Nuova Caledonia;Nya Kaledonien;Nová Kaledonie;Új-Kaledónia;Nieuw-Caledonië;Nova Caledônia;;Uusi-Caledonia;;
+AST_2454;Fiji;Fidji;Fidschi;Fidzi;Fiji;Fiji;Fiji;Fidži;Fidzsi;Fiji;Fiji;;Fiji;;
+AST_2534;Solomon Islands;îles Salomon;Salomon-Inseln;Wyspy Salomona;Islas Salomón;Isole Salomone;Salomonöarna;Solomonovy ostrovy;Salamon-szigetek;Solomon eilanden;Ilhas Salomão;;Solomonsaaret;;
+AST_2535;Melanesian Islands;Îles mélanésiennes;Melanesische Inseln;Wyspy Melanezyjne;Islas Melanesias;Isole melansiane;Melanesiska öar;Melanesian ostrovy;Melanéziai szigetek;Melanesische eilanden;Ilhas Melanesianas;;Melanesiansaaret;;
+AUS_2538;Vojvodina;Vojvodina;Vojvodina;Vojvodina;Voyvodina;Vojvodina;Vojvodina;Vojvodina;Vojvodina;Vojvodina;Vojvodina;;Vojvodina;;
+AUS_652;Banat;Banat;Banat;Banat;Banat;Banhat;Banat;Banat;Bánat;Banaat;Banat;;Banat;;
+AUS_654;Western Transylvania;Transylvanie occidentale;Westerntrandylvania;Zachodnia Transylvania;Transilvania occidental;Transilvania occidentale;Västra transylvanien;Západní transylvánsko;Nyugat-Erdély;Westerse transylvanië;Transilvânia ocidental;;Western Transylvania;;
+AUS_657;Eastern Transylvania;Transylvanie orientale;Östliche Siebenbürgen;Wschodnia Transylvania;Transilvania oriental;Transilvania orientale;Östra Transsylvanien;Eastern Transylvania;Eastern Erdylvania;Oost-Transsylvanië;Transilvânia Oriental;;Itä-Transylvania;;
+AUS_702;Galicia-Lodomeria;Galicia-lodomérien;Galizien-Lodomeria;Galicja-Lodomeria;Galicia-Lodomeria;Galizia-Lodomeria;Galicia-lodomeria;Galicia-lodomeria;Galicia-Lodomeria;Galicia-Lodomeria;Galicia-Lodomeria;;Galicia-Lodomeria;;
+BAV_595;Franconia;Franconie;Franken;Frankonia;Franconia;Franconia;Franconia;Franconia;Franconia;Frankenland;Franconia;;Franconia;;
+BAV_599;Upper Bavaria;Haute-Bavière;Oberbayern;Górna Bawaria;Baviera superior;Alta Baviera;Övre Bayern;Horní Bavorsko;Felso-Bajorország;Bovenste Beieren;Baviera superior;;Ylä-Baijeri;;
+BEL_1990;Kivu;Kivu;Kivu;Kivu;Kivu;Kivu;Kivu;Kivu;Kivu;Kivu;Kivu;;Kivu;;
+BEL_1996;Congo Orientale;Congo Orientale;Kongo orientale;Kongo Orientale;Congo Orientale;Congo orientale;Congo Orientale;Kongo Orientale;Kongói Orientale;Congo-orientale;Orientale do congo;;Congo Orientale;;
+BEL_2034;Ruanda-Urundi;Ruanda-Urundi;Ruanda-Urundi;Ruanda-Urundi;Ruanda-Urundi;Ruanda-Urundi;Ruanda-Urundi;Ruanda-Irundi;Ruanda-Urundi;Ruanda-Urundi;Ruanda-Urundi;;Ruanda-Urundi;;
+BEL_387;Flanders;Flamand;Flandern;Flandria;Flandes;Fiandre;Flanders;Flandry;Flandria;Vlaanderen;Flandres;;Flanderi;;
+BEL_394;Wallonia;Wallonie;Wallonie;Walonia;De Valonia;Vallonia;Wallonia;Wallonia;Wallonia;Wallonië;Wallonia;;Vallonia;;
+BOL_2309;Antofagasta;Anofagasta;Antofagasta;Antofagasta;Antofagasta;Antofagasta;Antofagasta;Antofagasta;Antofagasta;Antofagasta;Antofagasta;;Antofagasta;;
+BRA;Brunswick;Brunswick;Braunschweig;Brunswick;Brunswick;Brunswick;braunschweig;Brunswick;Brunswick;Brunswick;Brunswick;;Brunswick;;
+BRA_ADJ;Brunswicker;Brunswicker;Brunswicker;Brunwicker;Brunswicker;Brunswicker;Brunswicker;Brunswicker;Brunswicker;Brunswicker;Brunswicker;;Brunswicker;;
+BRU_1394;West Borneo;Ouest Bornéo;West Borneo;West Borneo;West Borneo;West Borneo;West Borneo;Západ Borneo;Nyugat-Borneo;West Borneo;West Bornéu;;West Borneo;;
+BRU_1396;Sabah;Sabah;Sabah;Sabah;Sabah;Sabah;Sabah;Sabah;Sabah;Sabah;Sabá;;Sabah;;
+BRZ_2421;Goiás;Goiás;Goiás;Goiás;Goiás;Goiás;Goiás;Goiás;Gúnyolódás;Goiás;Goiás;;Goiás;;
+BRZ_2461;Santa Catarina;Santa Catarina;Santa Catarina;Santa Catarina;Santa Catarina;Santa Catarina;Santa Catarina;Santa Catarina;Santa Catarina;Santa Catarina;Papai Noel Catarina;;Santa Catarina;;
+CAN_13;Columbia;Columbia;Columbia;Columbia;Columbia;Columbia;Columbia;Columbia;Kolumbia;Columbia;Columbia;;Kolumbia;;
+CAN_19;New Caledonia;Nouvelle Calédonie;Neu-Kaledonien;Nowa Kaledonia;Nueva Caledonia;Nuova Caledonia;Nya Kaledonien;Nová Kaledonie;Új-Kaledónia;Nieuw-Caledonië;Nova Caledônia;;Uusi-Caledonia;;
+CAN_46;Upper Canada;Haute-Canada;Oberkanada;Górna Kanada;Alto Canadá;Upper Canada;Övre Kanada;Horní Kanada;Felso-Kanada;Bovenste Canada;Canadá superior;;Ylempi Kanada;;
+CAN_50;Northern Ontario;Nord de l'Ontario;Nord Ontario;Pólnocny Ontario;Northern Ontario;Ontario settentrionale;Norra Ontario;Severní Ontario;Észak-Ontario;Noord-Ontario;Northern Ontário;;Pohjois-Ontario;;
+CAN_58;Lower Canada;Bas du Canada;Niederkanada;Dolna Kanada;Baja Canadá;Lower canada;Lägre Kanada;Dolní Kanada;Alsó kanada;Lager Canada;Lower Canada;;Alempi Kanada;;
+CAN_60;Northern Quebec;Nord du Québec;Northern Quebec;Pólnocny Quebec;Quebec del norte;Northern Quebec;Northern Quebec;Severní Quebec;Észak-Quebec;Noord-Quebec;Northern Quebec;;Northern Quebec;;
+CHI_1465;Eastern Mongolia;Mongolie orientale;Östliche Mongolei;Wschodnia Mongolia;Mongolia oriental;Mongolia orientale;Östra mongoliet;Východní Mongolsko;Kelet-Mongólia;Oost-Mongolië;Mongólia oriental;;Itä-Mongolia;;
+CHI_1468;Western Mongolia;Mongolie occidentale;Westliche Mongolei;Zachodnia Mongolia;Mongolia occidental;Mongolia occidentale;Västra Mongoliet;Západní Mongolsko;Nyugat-Mongólia;Western Mongolia;Mongólia ocidental;;Western Mongolia;;
+CHI_1470;South Anhui;Sud anhui;Südanhui;Poludniowy Anhui;Anhui del sur;ANHUI SUD;South Anhui;Jižní Anhui;Dél-anhui;Zuid-anhui;South Anhui;;Etelä-Anhui;;
+CHI_1477;North Anhui;North Anhui;Nordanhui;North Anhui;North Anhui;North Anhui;Norra anhui;Severní Anhui;Észak-Anhui;Noord-Anhui;North Anhui;;Pohjois Anhui;;
+CHI_1479;Fengtian;Fengtien;Fengtian;Fengtian;Fengtiano;Fengtiano;Fengtiker;Fengtian;Fengti;Fengtisch;Fengtian;;Fengtian;;
+CHI_1482;Fujian;Fujian;Fujian;Fujian;Fujian;Fujian;Fujian;Fujian;Fujian;Fujian;Fujian;;Fujian;;
+CHI_1485;Formosa;Formosa;Formosa;Formosa;Formosa;Formosa;Formosa;Formosa;Formosa;Formosa;Formosa;;Formosa;;
+CHI_1490;Gansu;Gansu;Gansu;Gansu;Gansu;Gansu;Gans;Gansu;Gansu;Gansu;Gansu;;Gansu;;
+CHI_1493;Canton;Canton;Kanton;Kanton;Cantón;Cantone;Kanton;Kanton;Kanton;Kanton;Cantão;;Kantoni;;
+CHI_1496;Hong Kong;Hong Kong;Hongkong;Hongkong;Hong Kong;Hong Kong;Hong Kong;Hongkong;Hong Kong;Hong Kong;Hong Kong;;Hongkong;;
+CHI_1499;Hainan;Hainan;Hainan;Hainan;Hainán;Hainan;Hainan;Hainan;Hainan;Hainan;Hainan;;Hainan;;
+CHI_1502;Guangxi;Guangxi;Guangxi;Guangxi;Guangxi;Guangxi;Guangxi;Guangxi;Guangxi;Guangxi;Guangxi;;Guangxi;;
+CHI_1505;Guizhou;Guizhou;Guizhou;Guizhou;Guizhou;Guizhou;Guizhou;Guizhou;Guizhou;Guizhou;Guizhou;;Guizhou;;
+CHI_1508;East Henan;Henan Est;East Henan;Henan Wschodni;East Henan;East Henan;Östhenan;East Henan;Kelet-henan;Oost-Henan;East Henan;;Itä-Henan;;
+CHI_1510;West Henan;West Henan;Westhenan;West Henan;West Henan;West Henan;Västra;Západní Henan;Nyugat-Henan;West Henan;West Henan;;West Henan;;
+CHI_1519;West Hubei;West Hubei;West-Hubei;West Hubei;West Hubei;West Hubei;West Hubei;West Hubei;Nyugat-Hubei;West Hubei;West Hubei;;West Hubei;;
+CHI_1522;East Hubei;East Hubei;East Hubei;East Hubei;Hubei oriental;East Hubei;East Hubei;East Hubei;Kelet-Hubei;Oost-Hubei;East Hubei;;East Hubei;;
+CHI_1524;North Hunan;North Hunan;North Hunan;North Hunan;Hunan del norte;North Hunan;Norra hunan;Severní Hunan;North Hunan;Noord-Hunan;Hunan norte;;Pohjois-Hunan;;
+CHI_1526;South Hunan;South Hunan;Südhunan;Poludniowy Hunan;Hunan del sur;South Hunan;Södra hunan;Jižní Hunan;Dél-hunan;Zuid-Hunan;Hunan Sul;;Etelä-Hunan;;
+CHI_1532;Inner Mongolia;Mongolie intérieure;Innere Mongolei;Wewnetrzna Mongolia;Mongolia interior;Mongolia continentale;Inre Mongoliet;vnitrní Mongolsko;Belso-Mongólia;Inner Mongolia;Mongólia interior;;Sisä-Mongolia;;
+CHI_1540;North Jiangsu;Jiangsu du Nord;North Jiangsu;North Jiangsu;Jiangsu del Norte;North Jiangsu;Norra jiangsu;Severní Jiangsu;Észak-jiangsu;Noord-Jiangsu;North Jiangsu;;Pohjois Jiangsu;;
+CHI_1545;North Jiangxi;Jiangxi du Nord;North Jiangxi;North Jiangxi;Jiangxi del Norte;North Jiangxi;Nord Jiangxi;Severní Jiangxi;Észak-jiangxi;Noord-Jiangxi;North Jiangxi;;Pohjois Jiangxi;;
+CHI_1547;South Jiangxi;Jiangxi du Sud;Südjiangxi;Poludniowy Jiangxi;Jiangxi del sur;South Jiangxi;South Jiangxi;Jižní Jiangxi;Dél-jiangxi;South Jiangxi;Sul Jiangxi;;Etelä Jiangxi;;
+CHI_1552;Heilongjiang;Heilongjiang;Heilongjiang;Heilongjiang;Heilongjiang;Heilongjiang;Heilongjiang;Heilongjiang;Heilongjiang;Heilongjiang;Heilongjiang;;Heilongjiang;;
+CHI_1555;Kirin;Kirin;Kirin;Kirin;Kirin;Kirin;Kirin;Kirin;Kirin;Kirin;Kirin;;Kirin-;;
+CHI_1559;Shaanxi;Shaanxi;Shaanxi;Shaanxi;Shaanxi;Shaanxi;Shaanxi;Shaanxi;Shaanxi;Shaanxi;Shaanxi;;Shaanxi;;
+CHI_1563;West Shandong;West Shandong;West Shandong;West Shandong;West Shandong;Shandong occidentale;West Shandong;West Shandong;Nyugati shandong;West Shandong;West Shandong;;West Shandong;;
+CHI_1565;East Shandong;Shandong est;East Shandong;Wschodni shandong;East Shandong;Shandong orientale;Öst shandong;East Shandong;Keleti shandong;Oost-Shandong;Shandong East;;East Shandong;;
+CHI_1572;Shanxi;Shanxi;Shanxi;Shanxi;Shanxi;Shanxi;Shanxi;Shanxi;Shanxi;Shanxi;Shanxi;;Shanxi;;
+CHI_1578;West Sichuan;Sichuan occidental;West Sichuan;West Sichuan;West Sichuan;West Sichuan;Västra sichuan;Západní Sichuan;West Sichuan;West Sichuan;West Sichuan;;West Sichuan;;
+CHI_1579;East Sichuan;Sichuan oriental;East Sichuan;East Sichuan;East Sichuan;East Sichuan;Östra sichuan;East Sichuan;East Sichuan;Oost-Sichuan;Leste sichuan;;East Sichuan;;
+CHI_1594;Kashgar;Kashgar;Kashgar;Kashgar;Kashgar;Kashgar;Kashgar;Kašgar;Kashgar;Kashgar;Kashgar;;Kashgar;;
+CHI_1600;Urumqui;Urumqui;Urumqui;Urumqui;Urumqui;Urumqui;Urumqui;Urumqui;Urumqui;Urumqui;Urumqui;;Urumqui;;
+CHI_1601;Yunnan;Yunnan;Yunnan;Yunnan;Yunnan;Yunnan;Yunnan;Yunnan;Yunnan;Yunnan;Yunnan;;Yunnan;;
+CHI_1604;North Zhejiang;North Zhejiang;Nordzhejiang;North Zhejiang;Norte zhejiang;North Zhejiang;North Zhejiang;Severní Zhejiang;Észak-Zhejiang;North Zhejiang;North Zhejiang;;Pohjois-Zhejiang;;
+CHI_1610;South Zhejiang;Sud Zhejiang;Süd Zhejiang;Poludniowy Zhejiang;South Zhejiang;South Zhejiang;South Zhejiang;Jižní Zhejiang;Dél-Zhejiang;South Zhejiang;Sul zhejiang;;Etelä-Zhejiang;;
+CHI_1612;Baoding;Baoding;Baoding;Baoding;Baooding;Baoding;Baoding;Baoding;Baoding;Baoding;Baoding;;Baoding;;
+CHI_1616;Peking;Panking;Peking;Peking;Pekín;Peking;peking;Peking;Peking;Peking;Pequim;;Peking;;
+CHI_2221;South Jiangsu;Jiangsu du Sud;Südjiangsu;Poludniowy Jiangsu;South Jiangsu;South Jiangsu;Södra jiangsu;Jižní Jiangsu;Dél-jiangsu;South Jiangsu;Sul Jiangsu;;Etelä-Jiangsu;;
+CHI_2678;Outer Mongolia;Mongolie extérieure;Äußere Mongolei;Zewnetrzna Mongolia;Mongolia exterior;Outer Mongolia;Yttre mongoliet;Vnejší mongolsko;Külso mongolia;Buitenste Mongolië;Mongólia exterior;;Ulompi Mongolia;;
+DAI_1369;Tonkin;Tonkin;Tonkin;Tonkin;Tonelada;Tonkin;Tonkin;Tonkin;Tonkin;Tonkin;Tonca;;Tonkin;;
+DAI_1375;Annam;Annamelle;Annam;Annam;Annam;Annam;Annamera;Annam;Anam;Annam;Annam;;Antaa;;
+DAI_1380;Cochinchina;Cochinchina;Cochinchina;Cochinchina;Cochinchina;Cochinchina;Cochinchina;Cochinchina;Cochinchina;Cochinchina;Cochinchina;;Cochinchina;;
+EGY_1745;Cairo;Caire;Kairo;Kair;El Cairo;Cairo;Kairo;Cairo;Kairó;Cairo;Cairo;;Kairo;;
+EGY_1751;Alexandria;Alexandrie;Alexandria;Alexandria;Alexandria;Alexandria;Alexandria;Alexandrie;Alexandria;Alexandrië;Alexandria;;Alexandria;;
+EGY_1753;Qattara;Qattara;Qattara;Qattara;Qattara;Qattara;Qattara;Qattara;Qattara;Qattara;Qattara;;Qattora;;
+EGY_1755;Sinai;Sinaï;Sinai;Synaj;Sinaí;Sinai;Snai;Sinai;Sinai;Sinaï;Sinai;;Sinai;;
+ENG_1243;Bundelkhand;Bundelkhand;Bundelkhand;Bundelkhand;Bundelkand;Bundelkhand;Bundelkhand;Bundelkand;Bundelkhand;Bundelkhand;Bundelkhand;;Bundelkhand;;
+ENG_1244;Awadh;Aveugle;Awadh;Awadh;Awadh;Awadh;Awadh;Awadh;Awadh;Awadh;Awadh;;Awadh;;
+ENG_1384;Southern Malaya;Sud de Malaisie;Südmalaya;Poludniowa Malaya;Malaya meridional;Malaya del sud;Södra malaya;Jižní malája;Southern Malaya;Zuid-Malaya;Malaya do sul;;Etelä-Malaya;;
+ENG_1391;Northern Malaya;Northern Malaya;Nord Malaya;Pólnocny Malaya;Northern Malaya;Northern Malaya;Norra malaya;Severní Malaya;Észak-Malaya;Noord-Malaya;Malaya do norte;;Pohjois-Malaya;;
+ENG_1844;Sudd;Sudd;Sudd;Sudd;Sudd;Suddetto;Sudd;Sudd;Sudd;Sudd;Sudd;;Sudd;;
+ENG_1956;Cameroon;Cameroun;Kamerun;Kamerun;Camerún;Camerun;Kamerun;Kamerun;Kamerun;Kameroen;Camarões;;Kamerun;;
+ENG_2036;Zanzibar;Zanzibar;Sansibar;Zanzibar;Zanzíbar;Zanzibar;Zanzibar;Zanzibar;Zanzibár;Zanzibar;Zanzibar;;Zanzibar;;
+ENG_2044;Tanganyika;Tanganyika;Tanganyika;Tanganyika;Tanganica;Tanganyika;Tanganyika;Tanganyika;Tangányika;Tanganyika;Tanganyika;;Tanganyika;;
+ENG_2048;Zanzibar;Zanzibar;Sansibar;Zanzibar;Zanzíbar;Zanzibar;Zanzibar;Zanzibar;Zanzibár;Zanzibar;Zanzibar;;Zanzibar;;
+ENG_2067;Nyasaland;Nyasaland;Nyasaland;Nyasaland;Nyasaland;Nyasaland;Nyasaland;Nyasaland;Nézaland;Nyasaland;Nyasaland;;Nyasaland;;
+ENG_2068;Mashonaland;Mashonaland;Mashonaland;Mashonaland;Mashonaland;Mashonaland;Mashonaland;Mashonaland;Mashonaland;Mashonaland;Mashonaland;;Mashonaland;;
+ENG_2071;Matabeleland;Matabeleland;Matabeleland;Matabelland;Matabeleland;Matabeleland;Matabeleland;Matabeleland;Matabéland;Matabeleland;Matabeleland;;Matabeland;;
+ENG_2074;Bechuanaland;Bechuanaland;Bechanaland;Bechuanaland;Bechuanaland;Becuanaland;Bechuanaland;Bechuanaland;Bechuanaland;Bechuanaland;Bechuanaland;;Bechuanaland;;
+ENG_2094;Kimberley;Kimberley;Kimberley;Kimberley;Kimberley;Kimberley;Kimberley;Kimberley;Kimberley;Kimberley;Kimberley;;Kimberley;;
+ENG_258;Connacht;Connacht;Connacht;Connacht;Connache;Connacht;Knäpp;Connacht;Connacht;Spacht;Connacht;;Connacht;;
+ENG_263;Leinster;Leinster;Leinster;Leinster;Leinster;Leinster;Leinster;Leadster;Leinster;Leinster;Leinster;;Leinster;;
+ENG_68;Maritimes;Maritimes;Maritimes;Maritimes;Maritimes;Maritimes;Maritimes;Maritimes;Maritimes;Maritimeren;Maritimes;;Maritimes;;
+ETH_1852;Begemder;Béguier;Begeistert;Zaczynajacy sie;Subcuento;Allegatura;Påbörjare;Zacíná;Könyörög;Begemiddel;Begemder;;Begment;;
+ETH_1853;Tigray;Tigray;Tigray;Tigray;Tigray;Tigrazza;Tigray;Thigray;Tigraf;Tigray;Tigray;;Trafy;;
+ETH_1859;Shewa;Shewa;Shewa;Shewa;Shewa;Shewa;Hon WA;Shewa;Shewa;Shewa;Shewa;;Shewa;;
+ETH_1862;Gibe;Moquerie;Stichelei;Kpina;Burla;Gob;Gliring;Posmívat se;Csúfolódás;Gaf;Gibe;;Huijari;;
+ETH_1865;Hararghe;Harier;Hararghe;Hararghe;Hararghe;Hararghe;Hargerg;Hararghe;Hararghe;Hararghe;Hararghe;;Harrarhe;;
+FRA_1878;Lower Guinea;Basse-Guinée;Lower Guinea;Nizsza Gwinea;Guinea más baja;Guinea inferiore;Lägre guinea;Nižší guinea;Alsó-guinea;Lagere Guinea;Lower Guiné;;Ala-Guinea;;
+FRA_1883;Upper Guinea;Haute-Guinée;Oberguinea;Górna Gwinea;Guinea superior;Guinea superiore;Övre guinea;Horní guinea;Felso guinea;Bovenste Guinea;Guiné superior;;Ylempi guinea;;
+FRA_1919;Dahomey;Dahomey;Dahomey;Dahomey;Dahomey;Dahomey;Dahomey;Dahomey;Dahomey;Dahomeyy;Daomé;;Dahomey;;
+FRA_1970;Bangassou;Bangassou;Bangassou;Bangassou;Bagassou;Bangassou;Bangassou;Bangassou;Bangasou;Bangassou;Bangassou;;Bangassou;;
+FRA_801;Tahiti;Tahiti;Tahiti;Tahiti;Tahiti;Tahiti;Tahiti;Tahiti;Tahiti;Tahiti;Taiti;;Tahiti;;
+HAN_528;Lower Elbe;Bas elbe;Lower Elbe;Lower Elbe;Elba menor;Lower Elbe;Lägre elbe;Dolní Labe;Alsó elbe;Lower Elbe;Lower Elbe;;Alempi Elbe;;
+HAN_534;Hanover;Hanover;Hannover;Hanower;Hanovre;Hannover;Honover;Hannover;Hannover;Hannover;Hanôver;;Hanover;;
+HAN_540;East Friesland;Friesland est;East Friesland;Wschodnia Fryzja;East Friesland;East Friesland;East Friesland;Východní Friesland;Kelet-Friesland;East Friesland;East Friesland;;East Friesland;;
+HES_2560;Hessen;Hessen;Hessen;Hessen;Hessen;Assia;Hessen;Hessen;Hessen;Hessen;Hessen;;Hessen;;
+HOL_369;Holstein;Holstein;Holstein;Holsztyn;Holstein;Holstein;Holstein;Holstein;Holstein;Holstein;Holstein;;Holstein;;
+JAP_1086;Sakhalin;Sakhalin;Sakhalin;Sachalin;Sakhalin;Sakhalin;Sakhalin;Sakhalin;Szahalin;Sakhalin;Sakhalin;;Sakhalin;;
+JAP_1088;Ezo;Ezo;Ezo;Ezo;Ezo;Ezo;Ezo;Ezo;Ezo;Ezo;Ezo;;Ezo;;
+JAP_1640;Chugoku;Chugoku;Chugoku;Chugoku;Chugoku;Chugoku;Chugoku;Chugoku;Chugoku;Chugoku;Chugoku;;Chugoku;;
+JAP_1649;Kanto;Kanto;Kanto;Kanto;Kanto;Kanto;Kanto;Kanto;Kanto;Kanto;Kanto;;Kanto;;
+JAP_1654;Bonin Islands;Îles Bonin;Bonininseln;Islands Bonin;Bonin Islands;Isole Bonin;Boninöarna;Boninské ostrovy;Bonin-szigetek;Bonin-eilanden;Ilhas Bonin;;Bonin saaret;;
+JAP_1655;Kansai;Kansai;Kansai;Kansai;Kansai;Kansai;Kansai;Kansai;Kansai;Kansai;Kansai;;Kansai;;
+JAP_1660;Kyushu;Kyushu;Kyushu;Kyushu;Kyushu;Kyushu;Kyushu;Kyushu;Kyushu;Kyushu;Kyushu;;Kyushu;;
+JAP_1665;Shikoku;Shikoku;Shikoku;Shikoku;Shikoku;Shikoku;Shikoku;Shikoku;Shikoku;Shikoku;Shikoku;;Shikoku;;
+JAP_1672;Tohoku;Tohoku;Tohoku;Tohoku;Tohoku;Tohoku;Tohoku;Tohoku;Tohoku;Tohoku;Tohoku;;Tohoku;;
+JAP_1675;Chubu;Chubu;Chubu;Chubu;Chubu;Chubu;Chubu;Chubu;Chubu;Chubu;Chubu;;Chubu;;
+KOK_1210;Bandakshan;Bandakshan;Bandakshan;Bandakshan;Bandakshan;Bandakshan;Bandakshan;Bandakshan;Bandakshan;Bandakshan;Bandakshan;;Bandakshan;;
+LUA_1356;Laos;Laos;Laos;Laos;Laos;Laos;Laos;Laos;Laosz;Laos;Laos;;Laos;;
+MEX_2181;Chiapas;Chiapas;Chiapas;Chiapas;Chiapas;Chiapas;Chiapas;Chiapas;Chiapas;Chiapas;Chiapas;;Chiapas;;
+MEX_94;Nevada;Nevada;Nevada;Nevada;Nevada;Nevada;Nevada;Nevada;Nevada;Nevada;Nevada;;Nevada;;
+MEX_97;Utah;Utah;Utah;Utah;Utah;Utah;Utah;Utah;Utah;Utah;Utah;;Utah;;
+MOL_676;Bessarabia;Bessarabia;Bessarabien;Bessarabia;Bessarabia;Bessarabia;Bessarabia;Bessarabia;Besarabia;Bessarabia;Bessarabia;;Bessarabia;;
+MOR_1693;Marrakesh;Marrakech;Marrakesch;Marrakesz;Marrakech;Marrakesh;Marrakesh;Marrakesh;Marrakesh;Marrakesh;Marraquexe;;Marrakesh;;
+MOR_1694;Agadir;Agradir;Agadir;Agadir;Agadir;Agadir;Agadir;Agadir;Agadir;Agadir;Agadir;;Agadir;;
+NEP_1326;Western Himalayas;Himalaya occidental;Western Himalayas;Zachodni Himalaje;Himalaya occidental;Himalaya occidentale;Västra Himalaya;Západní Himalájí;Nyugati Himalája;West-Himalaya's;Himalaia Ocidental;;Western Himalajan;;
+NET_1401;Siak;Siak;Siak;Siak;Siak;Siak;Siak;Siak;Siak;Siak;Siak;;Siak;;
+NET_1413;West Java;Java Ouest;West Java;West Java;Java Occidental;Java occidentale;västra Java;západní Jáva;Nyugat-Jáva;West Java;Java do Oeste;;Länsi Java;;
+NET_1418;East Java;Java oriental;Ost-Java;Wschodni Java;Java Oriental;Java orientale;östra Java;východní Jáva;Kelet Java;Oost Java;Java Leste;;Itä-Jaava;;
+NET_1423;East Borneo;East Bornéo;East Borneo;Wschód Borneo;Embarcadero;East Borneo;East Borneo;East Borneo;East Borneo;Oost Borneo;Leste Borneo;;East Borneo;;
+NET_1426;South Borneo;Sud Bornéo;Südborneo;Poludniowy Borneo;South Borneo;South Borneo;South Borneo;Jižní Borneo;Dél-borna;Zuid-Borneo;Bornéu sul;;Etelä-Borneo;;
+NET_1446;Timor;Timor;Timor;Timor;Timor;Timor;Timor;Timor;Timor;Timor;Timor;;Timor;;
+NET_1447;Moluccas;Molucces;Molukkas;Moluccas;Moluccas;Moluccas;Moluccas;Molukcas;Molukcas;Molukka's;Moluccas;;Molukcas;;
+NET_1449;Celebes;Célébrités;Celebes;Celebes;Celebres;Celebes;Celebes;Celebes;Celebes;Celebes;Celebes;;Julkkikset;;
+NET_2235;Leeward Antilles;Antilles sous le vent;Lee-Antillen;Antyle zawietrzne;Antillas de sotavento;Antille sottovento;Leward antilles;Leeward Antilles;Leeward Antillák;Leeward Antillen;Antilhas de Leeward;;Leeward Antillit;;
+NET_379;Zeeland;Zélande;Zeeland;Zeeland;Zelanda;Zelanda;Zeeland;Zeeland;Zeeland;Zeeland;Zeeland;;Zeeland;;
+PAN_1233;Amritsar;Amritsar;Amritsar;Amritsar;Amritsar;Amritsar;Amritsar;Amritsar;Amritsar;Amritsar;Amritsar;;Amritsar;;
+PER_1116;Mazandaran;Mazandaran;Mazandaran;Mazandaran;Mazandarano;Mazandaran;Mazandaran;Mazandaran;Mazandaran;Mazandaran;Mazandaran;;Mazandaran;;
+PER_1128;Lorestan;Lorestan;Lorestan;Lorestan;Lorestano;Lorestan;Lorestan;Lorestan;Lorestan;Lorestan;Lorestan;;Lorestan;;
+PER_1132;Khuzestan;Khuzestan;Khuzestan;Khuzestan;Khuzestan;Khuzestan;Khuzestan;Khuzestan;Khuzestan;Khuzestan;Khuzestan;;Khuzestan;;
+PER_1136;Fars;Élasticité;Viele;Daleki;Farsa;Lontano;Faror;Fars;Messze;Fars;Fars;;Pitkät;;
+PER_1140;Kerman;Kerman;Kerman;Kerman;Kerman;Kerman;Knep;Kerman;Kerman;Kerman;Kerman;;Kerman;;
+PEU_2308;Arica;Arica;Arika;Arica;Arica;Arica;Ariska;Arica;Arika;Arica;Arica;;Arica;;
+POR_2054;Tete;Tete;Tete;Tete;Tete;Tete;Torn;Teta;Tete;Tete;Tete;;Teete;;
+PROV1082;Haishenwai;Harishenwai;Haishenwai;Haishenwai;Haishenwai;Haishenwai;Haishenwai;Haishenwai;Haishenwai;Haishenwai;Haishenwai;;Haidenwai;;
+PROV1087;Otomari;Otomari;Otomari;Otomari;Otomari;Otomari;Otomari;Otomari;Otomari;Otomari;Otomari;;Otomiari;;
+PROV13;New Westminster;Nouveau Westminster;Neue Westminster;Nowy Westminster;Nueva Westminster;Nuovo Westminster;New Westminster;Nový Westminster;Új Westminster;Nieuwe Westminster;New Westminster;;Uusi Westminster;;
+PROV1360;Xiangabouli;Xiangabouli;Xiangabouli;Xiangabouli;Xiangabouli;Xiangabouli;Xiangabouli;Xiangabouli;Xiangabouli;Xiangabouli;Xiangabouli;;Xiangabouli;;
+PROV1469;Uriankhai;Uriankhai;Uriankhai;Uriandkhai;Uriankhai;URIANKHAI;Uriankhai;Uniankhai;Urankhai;Uriankhai;Uriankhai;;Uriankhai;;
+PROV1523;Xiangyang;Xiangyang;Xiangyang;Xiangyang;Xiangyang;Xiangyang;Xiangyang;Xiangyang;Xiangyang;Xiangyang;XianGyang;;Xiangyang;;
+PROV1542;Xuzhou;Xuzhou;Xuzhou;Xuzhou;Xuzhou;Xuzhou;Xuzhou;Xuzhou;Xuzhou;Xuzhou;Xuzhou;;Xuzhou;;
+PROV1559;Xian;Xian;Xian;Xian;Xian;Xian;Xian;Xian;Xian;Xian;Xian;;Xian;;
+PROV1612;Baoding;Baoding;Baoding;Baoding;Baooding;Baoding;Baoding;Baoding;Baoding;Baoding;Baoding;;Baoding;;
+PROV1616;Peking;Panking;Peking;Peking;Pekín;Peking;Peking;Peking;Peking;Peking;Pequim;;Peking;;
+PROV1643;Ishikari;Ishikari;Ishikari;Ishikari;Ishikari;Ishikari;Ishikari;Ishikari;Ishikari;Ishikari;Ishikari;;Ishikari;;
+PROV1644;Nemuro;Némuro;Nemuro;Nemuro;Nemuro;Nemuro;Nemuro;Nemuro;Nemuro;Nemuro;Nemuro;;Nemuro;;
+PROV1679;Amami;Amami;Amami;Amami;Amami;Amami;Amami;Amami;Amami;Amami;Amami;;Amami;;
+PROV17;Stikine;Stikine;Storine;Stikine;Stikine;Stikine;Stikin;Stikán;Stikine;Stikine;Stikine;;Stikine;;
+PROV1709;Bône;OS;Knochen;Kosc;Hueso;Osso;Ben;Kost;Csont;Bot;Osso;;Bône;;
+PROV1860;Hawassa;Hawassa;Hawassa;Hawassa;Hawassa;Hawaya;Hawassa;Hawassa;Hawassa;Havassa;Hawassa;;Hawasta;;
+PROV1863;Jimma;Jimma;Jimma;Jimma;Jimma;Jimma;Jimma;Jimma;Jimma;Jimma;Jimma;;Jimma;;
+PROV1864;Sidamo;Sidamo;Sidamo;Sidamo;Sidamo;Sidamo;Sidamo;Sidamo;Sidamo;Sidamo;Sidamo;;Sidamo;;
+PROV1866;Bale;Balle;Ballen;Bela;Bala;Balla;Bal;Žok;Bála;Baal;Fardo;;Paali;;
+PROV1867;Ogaden;Ogaden;Ogaden;Ogaden;Ogaden;Ogaden;Ogaden;Ogaden;Ogaden;Ogaden;Ogaden;;Ogaden;;
+PROV19;New Caledonia;Nouvelle Calédonie;Neu-Kaledonien;Nowa Kaledonia;Nueva Caledonia;Nuova Caledonia;Nya Kaledonien;Nová Kaledonie;Új-Kaledónia;Nieuw-Caledonië;Nova Caledônia;;Uusi-Caledonia;;
+PROV20;Okanagan;Okanagan;Okanagan;Okanagan;Okanagan;Okanagan;Okanagan;Okanagan;Okanagan;Okanagan;Okanagan;;Okanagan;;
+PROV21;Kootenay;Kootenay;Kootenay;Kootenay;Kootenay;Kootenay;Kootenay;Kootenay;Kootenay;Kootenay;Kootenay;;Kootenay;;
+PROV2367;Xolotas;Xolotas;Xolotas;XOLOTAS;Xolotas;Xolotas;Xolotas;Xolotas;Xolotas;Xolotas;Xolotas;;Xolotas;;
+PROV2554;Misiones;Jugion;Misionen;Misiones;Misiones;Misionesi;Messores;Misiones;Szironulatok;Misleiding;Misiones;;Misiones;;
+PROV2595;Keewatin;Keewatin;Keewatin;Keewatin;Kewatin;Keewatin;Keewatin;Keewatin;Keewatin;Keewatin;Keewatin;;Keewatin;;
+PROV26;Bow River;Fleuve arc;Bow River;Bow River;Río de arco;Fiume di fiume;Bågflod;Bow river;Bow folyó;Boogrivier;Rio Bow;;Bow River;;
+PROV2834;Bay of Ayan;Baie d'Ayan;Bucht von Ayan;Zatoka Ayana;Bahía de Ayan;Baia di Ayan;Ayans bukt;Záliv Ayan;Ayan-öböl;Baai van Ayan;Baía de Ayan;;Ayanin lahden;;
+PROV2836;Coast of Kamchatka;Côte de Kamchatka;Küste von Kamchatka;Wybrzeze Kamczatki;Costa de Kamchatka;Costa di Kamchatka;Kamchatka kust;Pobreží Kamcatka;Kamchatka partja;Kust van Kamchatka;Costa de Kamchatka;;Kamchankan rannikko;;
+PROV2837;Sea of Okhotsk;Mer d'okhotsk;Meer von Okhotsk;Morze Okohotsk;Mar de Okhotsk;Mare di Okhotsk;Hav av okhotsk;More Okhotsk;Az Okhotsk-tenger;Zee van Okhotsk;Mar de Okhotsk;;Okhotskin meri;;
+PROV2838;Coast of Sakhalin;Côte de Sakhalin;Küste von Sakhalin;Wybrzeze Sachalina;Costa de Sakhalin;Costa di Sakhalin;Sakhalins kust;Pobreží Sakhalin;Sakhalin partja;Kust van Sakhalin;Costa de Sakhalin;;Sakhalinin rannikko;;
+PROV2843;Seto Inland Sea;Seto inland mer;Seto Binnenmeer;Seto Nande Sea;Seto del mar interior;Seto nel mare interno;Seto Inland Sea;Seto vnitrozemské more;Seto belvízi tenger;Seto binnenlandse zee;Seto no mar no interior;;Seto Inland Sea;;
+PROV3126;Coast of Minami;Côte de minami;Küste von Minami;Wybrzeze Minami;Costa de Minami;Costa dei minami;Kust av Minami;Pobreží Minami;Minami partja;Kust van Minami;Costa de Minami;;Minamin rannikko;;
+PROV381;Limburg;Limbourg;Limburg;Limburg;Limburgo;Limburgo;Limburg;Limburg;Limburg;Limburg;Limburg;;Limburg;;
+PROV44;Repulse Bay;Repoussement;Repulse Bay;Zatoka;Repulse bay;Repulse Bay;Repulse Bay;Repulse Bay;Visszanyerési öböl;Repulse Bay;Repulse Bay;;Repulse lahti;;
+PROV704;Nowy Sacz;NOWY SACZ;Nowy sacz;Nowy Sacz;Nowy sacz;Nowy Sacz;Nowy Sacz;Nowy Sacz;Nowy Sacz;NOWY SACZ;Nowy Sacz;;Nowy Sacz;;
+PROV711;Siedlce;Siedlce;Siedlce;Siedlce;Siedlce;Siedlce;Siedlce;Siedlce;Siejlce;Siedlce;Siedlce;;Siedlce;;
+PROV719;Bialystok;Biaysterne;Bialystok;Bialystok;Bialystok;Bialystok;Bialystok;Bialystok;Bialystok;Bialystok;Bialystok;;Bialystok;;
+PROV748;Grosseto;Grosseto;Grosseto;Grosseto;Grosseto;Grosseto;Grosseto;Grosseto;Grosseto;Grosseto;Grosseto;;Grosseto;;
+PROV829;Xanthe;Xanthe;Xanthe;Xanthe;Xantizo;Xanthe;Xanthe;Xanthe;Xanthe;Xanthe;Xanthe;;Kömpelö;;
+PROV950;Uzhgorod;Uzhgorod;Uzhgorod;Uzhgorod;Uzhgorod;Uzhgorod;Uzhgorod;Uzhgorod;Uzhgorod;Uzhgorod;Uzhgorod;;Uzhgorod;;
+PRU_544;Mecklenburg;Mecklenburg;Mecklenburg;Meklemburgia;Mecklenburg;Meclemburgo;Mecklenburg;Mecklenburg;Mecklenburg;Mecklenburg;Mecklenburg;;Mecklenburg;;
+PRU_546;Pomerania;Poméranie;Pommern;Pomorska;Pomerania;Pomerania;Pomerania;Pomerania;Pomeránia;Pommeren;Pomerania;;Pomerania;;
+PRU_553;Anhalt;Anhalt;Anhalt;Anhalt;Anhalt;Anhalt;Anhalt;Anhaltsko;Anhalt;Anhalt;Anhalt;;Anhalt;;
+PRU_554;Thuringia;Thuringe;Thüringen;Turyngia;Turingia;Turingia;Thuringia;Durynsko;Thüringia;Thuringia;Turíngia;;Thuringia;;
+PRU_570;Palatinate;Palatinat;Pfalz;Palatynat;Palatinado;Palatinato;Pfalz;Palce;Palotagrófi tartomány;Palts;Palatinado;;Palatinaatti;;
+PRU_575;Rheinland;Rhéinland;Rheinland;Rheinland;Reinland;Rheinland;Rheinland;Rheinland;Rheinland;Rheinland;Rheinland;;Rheinland;;
+PRU_578;Eastern Rheinland;Rheinland oriental;Eastern Rheinland;Wschodni Rheinland;Rheinland oriental;Rheinland orientale;Östra Rheinland;Východní Rheinland;Kelet-Rheinland;Oost-Rheinland;Rheinland oriental;;Itäinen Rheinland;;
+PRU_682;Lower Silesia;Silésie inférieure;Niederschlesien;Dolny Slask;Baja silesia;Bassa Slesia;Lägre silesi;Dolní Slezsko;Alsó-Szilézia;Neder-silesië;Silésia inferior;;Ala-Sleesia;;
+PRU_684;Upper Silesia;Silésie supérieure;Oberschlesien;Górny Slask;Silesia superior;Altasilia;Övre Silesia;Horní Slezsko;Felsoszilézia;Bovenste silesië;Silésia superior;;Ylempi sileesia;;
+RUS_2587;Kola;Kola;Kola;Kola;Kola;Kola;Kola;Kola;Kola;Kola;Cola;;Kola;;
+RUS_343;Helsinki;Helsinki;Helsinki;Helsinki;Helsinki;Helsinki;helsingfors;Helsinki;Helsinki;Helsinki;Helsínquia;;Helsinki;;
+RUS_345;Turku;Turc;Turku;Turku;Turku;Turku;Turku;Turku;Turku;Turku;Turku;;Turku;;
+RUS_360;Lithuania;Lituanie;Litauen;Litwa;Lituania;Lituania;Litauen;Litva;Litvánia;Litouwen;Lituânia;;Liettua;;
+RUS_706;Masovia;Masovia;Masovia;Masovia;Masovia;Masovia;Masovia;Masovia;Masovia;Masovia;Masovia;;Masovia;;
+RUS_715;West Galicia;West Galicia;Westgalizien;Zachodnia Galicja;West Galicia;Galizia occidentale;Västra galicien;Západní Galicia;West Galicia;West Galicië;Galiza Ocidental;;Länsi-Galicia;;
+RUS_940;Pinsk;Pinsk;Pinsk;Pinsk;Pinsk;Pinsk;Pinsk;Pinsk;Pinsk;Pinsk;Pinosk;;Pins;;
+RUS_955;Podillia;Podillia;Podillia;Podillia;Podillia;Podillia;Podillia;Podilie;Podillia;Podillia;Podillia;;Podillia;;
+RUS_968;Transnistria;Transnistrie;Transnistrien;Transnistria;Transnistria;Transnistria;Transnistrien;Podnestrí;Transznisztria;Transnistria;Transnístria;;Transnistria;;
+RUS_973;Zaporizhia;Zaporizhia;Zaporizhia;Zaporizhia;Zaporizhia;Zaporizhia;Zaporizhia;Zaporizhia;Zaporizhia;Zaporizhia;Zaporizhia;;Zaporizhia;;
+RUS_978;Kharkov;Kharkov;Kharkov;Charków;Jarkov;Kharkov;Kharkov;Charkov;Kharkov;Kharkov;Kharkov;;Kharkov;;
+RUS_979;Donbass;Donbass;Donbass;Donbass;Donbass;Donbass;Donbass;Donbass;Donbass;Donbass;Donbass;;Donbass;;
+SAR_765;Sardinia & Corsica;Sardaigne & Corsica;Sardinien & Korsika;Sardynia i Korsyka;Cerdeña y Córcega;Sardegna e Corsica;Sardinien & Korsika;Sardinia & Corsica;Sardinia & Corsica;Sardinië & Corsica;Sardenha & Córsega;;Sardinia & Korsika;;
+SAX_558;Saxony;Saxe;Sachsen;Saksonia;Sajonia;Sassonia;Saxon;Sasko;Szászország;Saksen;Saxônia;;Saksi;;
+SCH_370;Schleswig;Schleswig;Schleswig;Schleswig;Schleswig;Schleswig;Schleswig;Schleswig;Schleswig;Sleeswig;Schleswig;;Schleswig;;
+SIA_1352;Pattani;Pattani;Pattani;Pattani;Pattani;Pattani;Pattani;Pattani;Pattani;Pattani;Pattani;;Pattani;;
+SIA_1355;Shan;Shan;Shan;Shan;Shan;Shan;Shan;Shan;Shan;Shan;Shan;;Shan;;
+SIA_1358;Isan;Est un;Ist ein;Isan;Isan;È un;Är en;Je;Egy;Is een;É um;;On;;
+SIA_1392;Ayutthaya;Ayutthaya;Ayutthaya;Ayutthaya;Ayutthaya;Ayutthaya;Ayutthaya;Ayutthaya;Ayutthaya;Ayutthaya;Ayutthaya;;Ayutthaya;;
+SOK_1934;Biafra;Biafra;Biafra;Biafra;Biafra;Biafra;Biafra;Biafra;Biaba;Biafra;Biafra;;Biafra;;
+SOK_1937;Tukari;Tukari;Tukari;Tukari;Tukari;Tukari;Tukari;Tukari;Tukari;Tukari;Tukari;;Tukari;;
+SOK_1945;Kano;Kano;Kano;Kano;Kano;Kano;Karo;Kano;Kancsó;Kano;Kano;;Kano;;
+SOK_1963;Adamawa;Adamawa;Adamawa;Adamawa;Adamawa;Adamawa;Adamawa;Adamawa;Adamawa;Adamawa;Adamawa;;Adamawa;;
+SOM_1868;South Somaliland;Somaliland du Sud;Süds Somaliland;Poludniowy Somaliland;South Somaliland;South Somaliland;Södra somaliland;Jižní Somaliland;South Somaliland;South Somaliland;South Somaliland;;Etelä-Somaliland;;
+SOM_1872;North Somaliland;Somalilande du Nord;North Somaliland;North Somaliland;Somalilandia del Norte;Nord Somaliland;Norra somaliland;Severní Somaliland;Északszomaliland;Noord-Somaliland;Somalilândia do Norte;;Pohjois-Somaliland;;
+SPA_1955;Equatorial Guinea;Guinée Équatoriale;Äquatorialguinea;Gwinea Równikowa;Guinea Ecuatorial;Guinea Equatoriale;Ekvatorialguinea;Rovníková Guinea;Egyenlítoi-Guinea;Equatoriaal-Guinea;Guiné Equatorial;;Päiväntasaajan Guinea;;
+SPA_2517;Mariana Islands;Îles mariannes;Marianen-Inseln;Wyspy Mariana;Islas Mariana;Isole di Mariana;Mariana Islands;Mariana Islands;Mariana-szigetek;Mariana-eilanden;Ilhas Marianas;;Mariana-saaret;;
+SPA_610;Caroline Islands;Îles Caroline;Caroline Islands;Wyspy Caroline;Islas Caroline;Isole Caroline;Caroline Islands;Caroline Islands;Caroline-szigetek;Caroline-eilanden;Ilhas Caroline;;Caroline Islands;;
+SWE_322;Stockholm;Stockholm;Stockholm;Sztokholm;Estocolmo;Stoccolma;Stockholm;Stockholm;Stockholm;Stockholm;Estocolmo;;Tukholma;;
+SWE_329;Göteborg;Göteborg;Göteborg;Göteborg;Göteborg;Göteborg;Göteborg;Göteborg;Göteborg;Göteborg;Gotemburgo;;Göteborg;;
+SWE_334;Malmö;Malmö;Malmö;Malmö;Malmö;Malmö;MALMÖ;Malmö;Malmö;Malmö;Malmö;;Malmö;;
+TIB_1587;Eastern Himalayas;Himalaya oriental;Östlicher Himalaya;Wschodni Himalaje;Himalaya oriental;Himalaya orientale;Östra himalaya;Východní Himalájí;Kelet-Himalája;Oost-Himalaya's;Himalaia Oriental;;Itä-Himalajan;;
+TON_2540;Tonga;Tonga;Tonga;Tonga;Tonga;Tonga;Tonga;Tonga;Tonga;Tonga;Tonga;;Tonga;;
+TRI_1731;Tripolitania;Tripolitane;Tripolitanien;Tripolitania;Tripolitania;Tripolitania;Tripolitania;Tripolitanie;Tripolitánia;Tripolitania;Tripolitânia;;Tripolitania;;
+TRI_1735;Cyrenaica;Cyrénaïque;Cyrenaika;Cyrenaica;Cyrenaica;Cyrenaica;Cyrenaica;Cyrenaica;Cyrenaica;Cyrenaica;Cyrenaica;;Cyrenaica;;
+TRI_1740;Fezzan;Fezzan;Fezzan;Fezzan;Fezito;Fezzan;Fezzan;Uprímný;Fezzán;Fezzan;Fezan;;Fezzan;;
+TUR_805;Southern Macedonia;Macédoine du Sud;Südmakedonien;Poludniowa Macedonia;Macedonia meridional;Macedonia meridionale;Södra makedonien;Jižní Makedonie;Dél-Macedónia;Zuid-Macedonië;Macedônia do sul;;Etelä-Macedonia;;
+TUR_806;Northern Macedonia;Northern Macédoine;Nördliche Mazedonien;Pólnocna Macedonia;Macedonia del Norte;Macedonia settentrionale;Norra makedonien;Severní Makedonie;Észak-Macedónia;Noord-Macedonië;Macedônia do norte;;Pohjois-Macedonia;;
+TUR_809;Eastern Rumelia;Eastern Rumelia;Eastern Rumelia;Wschodnia Rumelia;Rumelia oriental;Rumelia orientale;Östra Rumelia;Východní Rumelia;Kelet-Rumelia;Oost-Rumelia;Rumelia oriental;;Itä-Rumelia;;
+TUR_823;Eastern Macedonia;Macédoine orientale;Eastern Mazedonien;Wschodnia Macedonia;Macedonia oriental;Macedonia orientale;Östra makedonien;Východní Makedonie;Kelet-Macedónia;Oost-Macedonië;Macedônia oriental;;Itä-Makedonia;;
+TUR_876;Ankara;Ankara;Ankara;Ankara;Ankara;Ankara;Ankara;Ankara;Ankara;Ankara;Ancara;;Ankara;;
+TUR_880;Kastamonu;Kastamonu;Kastamonu;Kastamonu;Kastamonu;Kastamonu;Kastamonu;Kastamonu;Kastamonu;Kastamonu;Kastamonu;;Kastamonu;;
+TUR_882;Trabizond;Trabizond;Trabizond;Trabizond;Trabizond;Trabizond;Trabizond;Trabizond;Trabizond;Trabizond;Trabizond;;Trabizond;;
+TUR_890;Van;Van;Van;Awangarda;camioneta;Furgone;Skåpbil;dodávka;Vád;Van;furgão;;pakettiauto;;
+TUR_893;Diyarbakir;Diyarbakir;Diyarbakir;Diyarbakir;Diyarbakir;Diyarbakir;Diyarbakir;Diyarbakir;Diyarbakir;Diyarbakir;Diyarbakir;;Diyarbakir;;
+TUR_894;Adana;Adana;Adana;Adana;Adana;Adana;Ada;Adana;Adana;Adana;Ada;;Adana;;
+UCA_2191;El Salvador;Le Salvador;El Salvador;Salwador;El Salvador;El Salvador;El Salvador;El Salvador;El Salvador;El Salvador;El Salvador;;El Salvador;;
+UCA_2193;Honduras;Honduras;Honduras;Honduras;Honduras;Honduras;Honduras;Honduras;Honduras;Honduras;Honduras;;Honduras;;
+USA_201;Georgia;Géorgie;Georgia;Gruzja;Georgia;Georgia;Georgien;Gruzie;Grúzia;Georgië;Geórgia;;Georgia;;
+USA_205;South Carolina;Caroline du Sud;South Carolina;Karolina Poludniowa;Carolina del Sur;Carolina del Sud;South Carolina;Jižní Karolína;dél Karolina;zuid Carolina;Carolina do Sul;;Etelä-Carolina;;
+USA_2543;Samoa;Samoa;Samoa;Samoa;Samoa;Samoa;Samoa;Samoa;Samoa;Samoa;Samoa;;Samoa;;
+YEM_1178;Sana'a;Sana'a;Sana'a;Sana'a;Sana'a;Sana'a;Sana'a;Sana'a;Sana'a;Sana'a;Sana'a;;SANA'A;;
+YEM_1412;Aden;Aden;Aden;Aden;Aden;Aden;Aden;Doupe;Aden;Aden;Aden;;Atua;;
+;;;;;;;;;;;;x;;;
