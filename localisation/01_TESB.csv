@@ -180,7 +180,6 @@ LUA_1361;Laos;Laos;Laos;Laos;Laos;Laos;Laos;Laos;Laosz;Laos;Laos;;Laos;x;
 LUA_1356;Northern Laos;Nord du Laos;Nordlaos;Pólnocny Laos;Northern Laos;Laos del Nord;Norra laos;Severní Laos;Észak-Laosz;Noord-Laos;Norte do Laos;;Pohjois-Laos;x;
 SIA_1392;Pattani;Pattani;Pattani;Pattani;Pattani;Pattani;Pattani;Pattani;Pattani;Pattani;Pattani;;Pattani;x;
 SIA_1352;Phuket;Phuket;Phuket;Phuket;Phuket;Phuket;Phuket;Phuket;Phuket;Phuket;Phuket;;Phuket;x;
-AST_2527;Marshall Islands;Iles Marshall;Marshallinseln;Wyspy Marshalla;Islas Marshall;Isole Marshall;Marshallöarna;Marshallovy ostrovy;Marshall-szigetek;Marshall eilanden;Ilhas Marshall;;Marshallsaaret;x;
 SIA_1346;Ayutthaya;Ayutthaya;Ayutthaya;Ayutthaya;Ayutthaya;Ayutthaya;Ayutthaya;Ayutthaya;Ayutthaya;Ayutthaya;Ayutthaya;;Ayutthaya;x;
 PEU_2293;Ica;Ica;Ica;Ica;Ica;Ica;Ica;Ica;Ica;Ica;Ica;;Ica;x;
 PEU_2295;Lima;Lima;Lima;Lima;Lima;Lima;Lima;Lima;Lima;Lima;Lima;;Lima;x;
@@ -200,3 +199,9 @@ NET_2235;Aruba;Arubie;Aruba;Aruba;Aruba;Aruba;Aruba;Aruba;Aruba;Aruba;Aruba;;Aru
 FRA_1808;Niger;Niger;Niger;Niger;Níger;Niger;Niger;Niger;Niger;Niger;Níger;;Niger;x;
 FRA_1813;Niger Sahara;Niger sahara;Niger Sahara;Niger Sahara;Níger Sahara;Niger Sahara;Niger sahara;Niger Sahara;Niger Szahara;Niger Sahara;Níger Sahara;;Niger Sahara;x;
 PROV2547;Samoa;Samoa;Samoa;Samoa;Samoa;Samoa;Samoa;Samoa;Samoa;Samoa;Samoa;;Samoa;x;
+PROV2525;Marcus Island;Île de Marcus;Marcus Island;Wyspa Marcus;Isla de Marcus;Marcus Island;Marcus Island;Marcus Island;Marcus-sziget;Marcus-eiland;Ilha de Marcus;;Marcus-saari;x;;;;
+AST_2527;Gilbert Islands;Îles Gilbert;Gilbert Islands;Wyspy Gilbert;Islas Gilbert;Gilbert Islands;Gilbertöarna;Gilbert Islands;Gilbert-szigetek;Gilbert-eilanden;Ilhas Gilbert;;Gilbert Islands;x;;;;
+NEP_1329;Bhutan;Bhoutan;Bhutan;Bhutan;Bután;Bhutan;Bhutan;Bhútán;Bhutan;Bhutan;Butão;;Bhutan;x;;;;
+PROV1329;Bhutan;Bhoutan;Bhutan;Bhutan;Bután;Bhutan;Bhutan;Bhútán;Bhutan;Bhutan;Butão;;Bhutan;x;;;;
+ENG_2503;Central Territory;Territoire central;Zentrales Territorium;Terytorium centralne;Territorio central;Territorio centrale;Centralt territorium;Centrální území;Központi terület;Centraal terrein;Território central;;Keski-alue;x;;;;
+ENG_2503_WASTELAND;Central Territory;Territoire central;Zentrales Territorium;Terytorium centralne;Territorio central;Territorio centrale;Centralt territorium;Centrální území;Központi terület;Centraal terrein;Território central;;Keski-alue;x;;;;
