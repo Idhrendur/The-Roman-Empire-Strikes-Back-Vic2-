@@ -1304,7 +1304,7 @@ iranian_turanian = {
 			Askar Chingiz Ishim Kasim Kurman Jangir Murat Nasiridin Sadyk Vali
 			}
 		last_names = {
-			Beg 
+			Beg  Khan "Konanbai uli" "Kutebar uli" "Muhammad uli" "Qasim uli"  
 			}
 	}
 	tajik = {
@@ -1316,7 +1316,7 @@ iranian_turanian = {
 			Nadir "Naser ed-Din" Nosret Reza
 			}
 		last_names = {
-			Khan
+			Beg  Khan "Konanbai uli" "Kutebar uli" "Muhammad uli" "Qasim uli" 
 			}
 	}
 	uighur = {
@@ -1325,7 +1325,7 @@ iranian_turanian = {
 			Afaq Ahmed Arshad Bahayeddin Burhan Daud Hakim Husayin Kemal Maqsud Muhammad Musa Rashidin Satuq Timur Yaqub
 			}
 		last_names = {
-			Beg Khan
+			Beg  Khan "Konanbai uli" "Kutebar uli" "Muhammad uli" "Qasim uli" 
 			}
 	}
 	pashtun = {
@@ -1337,7 +1337,7 @@ iranian_turanian = {
 			Qaysar Shahpur "Sher Ali" Shuja Suleyman Timur Yaqub Zaman
 		}
 		last_names = {
-			Khan
+			Beg  Khan "Konanbai uli" "Kutebar uli" "Muhammad uli" "Qasim uli" 
 		}
 		radicalism = 10
 
@@ -1351,7 +1351,7 @@ iranian_turanian = {
 			Samandar Sherdil
 		}
 		last_names = {
-			Khan
+			Beg  Khan "Konanbai uli" "Kutebar uli" "Muhammad uli" "Qasim uli" 
 		}
 	}
 	hazara = {
@@ -1360,7 +1360,7 @@ iranian_turanian = {
 			Ali Azim Jafar Mohammad Riza
 		}
 		last_names = {
-			Beg Khan
+			Beg  Khan "Konanbai uli" "Kutebar uli" "Muhammad uli" "Qasim uli" 
 		}
 	}
 	turkmen = {
@@ -1369,7 +1369,7 @@ iranian_turanian = {
 			Ahmed Haydar Mehmed Murad Nurberdi Qilich
 		}
 		last_names = {
-			Beg Khan
+			Beg  Khan "Konanbai uli" "Kutebar uli" "Muhammad uli" "Qasim uli" 
 		}
 	}
 	kurdish = {
@@ -1540,7 +1540,7 @@ south_asian = {
 			
 		}
 		
-		last_names = { Singh
+		last_names = { Singh Kunwar Bahadur Dhillon Nalwa Ahluwalia Ramgarhia Mal Mulraj
                
 		}
 	}
@@ -1550,7 +1550,7 @@ south_asian = {
 			
 		}
 		
-		last_names = { Singh
+		last_names = { Singh Kunwar Bahadur Dhillon Nalwa Ahluwalia Ramgarhia Mal Mulraj
                
 		}
 	}
