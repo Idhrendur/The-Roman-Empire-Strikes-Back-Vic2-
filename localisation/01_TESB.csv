@@ -205,3 +205,10 @@ NEP_1329;Bhutan;Bhoutan;Bhutan;Bhutan;Bután;Bhutan;Bhutan;Bhútán;Bhutan;Bhutan;B
 PROV1329;Bhutan;Bhoutan;Bhutan;Bhutan;Bután;Bhutan;Bhutan;Bhútán;Bhutan;Bhutan;Butão;;Bhutan;x;;;;
 ENG_2503;Central Territory;Territoire central;Zentrales Territorium;Terytorium centralne;Territorio central;Territorio centrale;Centralt territorium;Centrální území;Központi terület;Centraal terrein;Território central;;Keski-alue;x;;;;
 ENG_2503_WASTELAND;Central Territory;Territoire central;Zentrales Territorium;Terytorium centralne;Territorio central;Territorio centrale;Centralt territorium;Centrální území;Központi terület;Centraal terrein;Território central;;Keski-alue;x;;;;
+NWZ_liberal;Liberal;Liberal;Liberal;;Liberales;;;;;;;;;x;;;;
+NWZ_conservative;Conservative;Conservateur;Konservativ;;Conservadores;;;;;;;;;x;;;;
+NWZ_socialist;EKA;EKA;EKA;;EKA;;;;;;;;;x;;;;
+NWZ_communist;EKA;EKA;EKA;;EKA;;;;;;;;;x;;;;
+NWZ_reactionary;Nationalist;Nationaliste;Nationalistisch;;Nacionalista;;;;;;;;;x;;;;
+NWZ_anarcho_liberal;Radical;Radical;Radikal;;Radical;;;;;;;;;x;;;;
+NWZ_fascist;Neo-Taneists;Neo-Taneists;Neo-Taneists;;Neo-Taneists;;;;;;;;;x;;;;
